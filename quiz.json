@@ -1,0 +1,3481 @@
+{
+    "general": {
+        "history": [
+            {
+                "q": "In which year was the first officially recognized Test match played?",
+                "o": ["1877", "1882", "1890", "1901"],
+                "a": "1877"
+            },
+            {
+                "q": "Who captained the first officially recognized Test cricket team?",
+                "o": ["WG Grace", "Charles Bannerman", "Lord Harris", "George Parr"],
+                "a": "Charles Bannerman"
+            },
+            {
+                "q": "In which city was the first officially recognized Test match played?",
+                "o": ["Sydney", "Melbourne", "London", "Manchester"],
+                "a": "Melbourne"
+            },
+            {
+                "q": "Which country hosted the first Cricket World Cup in 1975?",
+                "o": ["England", "Australia", "West Indies", "India"],
+                "a": "England"
+            },
+            {
+                "q": "Who won the first Cricket World Cup in 1975?",
+                "o": ["West Indies", "Australia", "England", "India"],
+                "a": "West Indies"
+            },
+            {
+                "q": "Who is known as the 'Father of Cricket'?",
+                "o": ["WG Grace", "Don Bradman", "Jack Hobbs", "Sir Ian Botham"],
+                "a": "WG Grace"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in Test cricket?",
+                "o": ["Brian Lara", "Don Bradman", "Sachin Tendulkar", "Virender Sehwag"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Which player has scored the most centuries in Test cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Jacques Kallis", "Virat Kohli"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who was the first player to score a double century in a One Day International match?",
+                "o": ["Sachin Tendulkar", "Viv Richards", "Martin Guptill", "Rohit Sharma"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the youngest player to score a century in Test cricket?",
+                "o": ["Sachin Tendulkar", "Don Bradman", "Mohammad Ashraful", "Kane Williamson"],
+                "a": "Mohammad Ashraful"
+            },
+            {
+                "q": "Who is the only player to have scored 100 international centuries?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Jacques Kallis", "Virat Kohli"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who was the first cricketer to achieve the 'Triple Century' milestone in Test cricket?",
+                "o": ["WG Grace", "Don Bradman", "Jack Hobbs", "Andy Sandham"],
+                "a": "Andy Sandham"
+            },
+            {
+                "q": "Who is the only cricketer to score 400 runs in a single Test innings?",
+                "o": ["Brian Lara", "Don Bradman", "Sachin Tendulkar", "Virender Sehwag"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Which player holds the record for the most wickets in Test cricket?",
+                "o": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "James Anderson"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who was the first bowler to take 10 wickets in a single Test innings?",
+                "o": ["Jim Laker", "Anil Kumble", "Shane Warne", "Muttiah Muralitharan"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who was the first player to score a century in T20 International cricket?",
+                "o": ["Chris Gayle", "Brendon McCullum", "Yuvraj Singh", "Kevin Pietersen"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 300 Test wickets?",
+                "o": ["Dale Steyn", "Shane Warne", "Muttiah Muralitharan", "Richard Hadlee"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Which team won the first-ever ICC Champions Trophy in 1998?",
+                "o": ["South Africa", "Australia", "West Indies", "South Africa"],
+                "a": "South Africa"
+            },
+            {
+                "q": "Who is the only player to have won the ICC Player of the Year award three times?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Virat Kohli", "Jacques Kallis"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Which cricketer has won the most ICC Cricket World Cup titles as captain?",
+                "o": ["MS Dhoni", "Ricky Ponting", "Clive Lloyd", "Kapil Dev"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who holds the record for the fastest century in Test cricket in terms of balls faced?",
+                "o": ["Brendon McCullum", "Viv Richards", "Chris Gayle", "David Warner"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who was the first bowler to take a hat-trick in a Cricket World Cup match?",
+                "o": ["Chetan Sharma", "Saqlain Mushtaq", "Wasim Akram", "Lasith Malinga"],
+                "a": "Chetan Sharma"
+            },
+            {
+                "q": "Who is the only player to have won the ICC Player of the Tournament award twice in Cricket World Cups?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Yuvraj Singh", "Kumar Sangakkara"],
+                "a": "Yuvraj Singh"
+            },
+            {
+                "q": "Who holds the record for the highest partnership in Test cricket?",
+                "o": ["Kumar Sangakkara and Mahela Jayawardene", "Sanath Jayasuriya and Roshan Mahanama", "Ricky Ponting and Matthew Hayden", "Virender Sehwag and Rahul Dravid"],
+                "a": "Kumar Sangakkara and Mahela Jayawardene"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in each innings of a Test match?",
+                "o": ["Don Bradman", "Sunil Gavaskar", "Ricky Ponting", "Kumar Sangakkara"],
+                "a": "Sunil Gavaskar"
+            },
+            {
+                "q": "Which player has hit the most sixes in international cricket?",
+                "o": ["Chris Gayle", "Shahid Afridi", "Brendon McCullum", "Rohit Sharma"],
+                "a": "Shahid Afridi"
+            },
+            {
+                "q": "Who is the only player to score 10,000 runs in both Test and One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Jacques Kallis", "Kumar Sangakkara"],
+                "a": "Jacques Kallis"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in One Day International cricket?",
+                "o": ["Rohit Sharma", "Virender Sehwag", "Sachin Tendulkar", "Chris Gayle"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who was the first cricketer to take 500 Test wickets?",
+                "o": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Glenn McGrath"],
+                "a": "Shane Warne"
+            },
+            {
+                "q": "Who was the first cricketer to take 800 Test wickets?",
+                "o": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who holds the record for the highest number of dismissals by a wicketkeeper in Test cricket?",
+                "o": ["Adam Gilchrist", "Mark Boucher", "MS Dhoni", "Kumar Sangakkara"],
+                "a": "Mark Boucher"
+            },
+            {
+                "q": "Who was the first cricketer to score a double century in One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Virender Sehwag", "Chris Gayle", "Martin Guptill"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who holds the record for the highest number of runs scored in a single Cricket World Cup edition?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Martin Guptill", "Kumar Sangakkara"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in the ICC World T20?",
+                "o": ["Yuvraj Singh", "Chris Gayle", "Kevin Pietersen", "Brendon McCullum"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who holds the record for the most runs scored in T20 International cricket?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Martin Guptill", "Chris Gayle"],
+                "a": "Martin Guptill"
+            },
+            {
+                "q": "Who was the first cricketer to take a hat-trick in T20 International cricket?",
+                "o": ["Brett Lee", "Lasith Malinga", "Ajantha Mendis", "Rashid Khan"],
+                "a": "Brett Lee"
+            },
+            {
+                "q": "Who was the first cricketer to hit six sixes in an over in a T20 International match?",
+                "o": ["Yuvraj Singh", "Chris Gayle", "AB de Villiers", "Rohit Sharma"],
+                "a": "Yuvraj Singh"
+            },
+            {
+                "q": "Who holds the record for the fastest century in T20 International cricket in terms of balls faced?",
+                "o": ["David Miller", "Chris Gayle", "Rohit Sharma", "AB de Villiers"],
+                "a": "David Miller"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in the Indian Premier League (IPL)?",
+                "o": ["Brendon McCullum", "Chris Gayle", "AB de Villiers", "Rohit Sharma"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who was the first cricketer to take a hat-trick in the Indian Premier League (IPL)?",
+                "o": ["Amit Mishra", "Lakshmipathy Balaji", "Yuvraj Singh", "Lasith Malinga"],
+                "a": "Amit Mishra"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in the Indian Premier League (IPL)?",
+                "o": ["Chris Gayle", "AB de Villiers", "David Warner", "KL Rahul"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who is the leading wicket-taker in the history of the Indian Premier League (IPL)?",
+                "o": ["Lasith Malinga", "Amit Mishra", "Sunil Narine", "Harbhajan Singh"],
+                "a": "Lasith Malinga"
+            }
+        ],
+        "rules": [
+            {
+                "q": "What is the standard size of a cricket bat in inches?",
+                "o": ["32 inches", "34 inches", "36 inches", "38 inches"],
+                "a": "34 inches"
+            },
+            {
+                "q": "How many fielders are allowed outside the inner circle in the first 10 overs of a One Day International match?",
+                "o": ["4", "5", "6", "7"],
+                "a": "2"
+            },
+            {
+                "q": "What happens if the ball hits the helmet kept behind the wicketkeeper?",
+                "o": ["Four runs", "Six runs", "Two runs", "No runs"],
+                "a": "Five penalty runs"
+            },
+            {
+                "q": "In Test cricket, what is the maximum number of overs a bowler can bowl in a single day?",
+                "o": ["30 overs", "35 overs", "40 overs", "Unlimited"],
+                "a": "90 overs"
+            },
+            {
+                "q": "What happens if the fielding team has too many players on the field?",
+                "o": ["Penalty runs to the batting side", "No penalty", "Penalty runs to the fielding side", "Match abandoned"],
+                "a": "Penalty runs to the batting side"
+            },
+            {
+                "q": "What is the maximum duration of a T20 International match?",
+                "o": ["90 minutes", "2 hours", "2 hours 30 minutes", "3 hours"],
+                "a": "3 hours"
+            },
+            {
+                "q": "What is the maximum number of bouncers allowed in an over in Test cricket?",
+                "o": ["1", "2", "3", "4"],
+                "a": "2"
+            },
+            {
+                "q": "What happens if the batsman hits the ball twice with their bat?",
+                "o": ["No runs awarded", "Out", "Dead ball", "Five penalty runs"],
+                "a": "Out"
+            },
+            {
+                "q": "What is the maximum number of overs per bowler allowed in a T20 International match?",
+                "o": ["3 overs", "4 overs", "5 overs", "6 overs"],
+                "a": "4 overs"
+            },
+            {
+                "q": "What happens if the fielding team fails to bowl their overs in the allotted time?",
+                "o": ["Extra time granted", "Penalty runs awarded", "Match shortened", "Fine imposed"],
+                "a": "Penalty runs awarded"
+            },
+            {
+                "q": "What is the maximum duration of a powerplay in a T20 International match?",
+                "o": ["4 overs", "6 overs", "8 overs", "10 overs"],
+                "a": "6 overs"
+            },
+            {
+                "q": "What is the maximum number of overs a bowler can bowl in a T20 International match?",
+                "o": ["2 overs", "3 overs", "4 overs", "5 overs"],
+                "a": "4 overs"
+            },
+            {
+                "q": "What happens if the ball bounces more than twice before reaching the batsman?",
+                "o": ["No ball", "Dead ball", "Wide", "Bye"],
+                "a": "No ball"
+            },
+            {
+                "q": "In limited-overs cricket, what is the maximum number of bouncers allowed in an over?",
+                "o": ["1", "2", "3", "4"],
+                "a": "1"
+            },
+            {
+                "q": "What happens if the ball hits the fielding helmet placed on the field?",
+                "o": ["No runs", "Four runs", "Six runs", "Dead ball"],
+                "a": "Four runs"
+            },
+            {
+                "q": "What is the maximum number of fielders allowed outside the circle during the last 10 overs of a One Day International match?",
+                "o": ["4", "5", "6", "7"],
+                "a": "5"
+            },
+            {
+                "q": "What is the maximum number of overs per bowler allowed in a One Day International match?",
+                "o": ["8 overs", "10 overs", "12 overs", "15 overs"],
+                "a": "10 overs"
+            },
+            {
+                "q": "What happens if the batsman is out of their crease and the wicketkeeper breaks the stumps before the ball is bowled?",
+                "o": ["Stumped", "No ball", "Dead ball", "Wide"],
+                "a": "No ball"
+            },
+            {
+                "q": "What is the standard length of a cricket pitch in meters?",
+                "o": ["18 meters", "20 meters", "22 meters", "24 meters"],
+                "a": "22 meters"
+            },
+            {
+                "q": "What happens if the ball is bowled too wide for the batsman to reach?",
+                "o": ["Wide", "No ball", "Dead ball", "Bye"],
+                "a": "Wide"
+            },
+            {
+                "q": "In limited-overs cricket, what is the maximum number of overs per bowler allowed in a match?",
+                "o": ["8 overs", "10 overs", "12 overs", "15 overs"],
+                "a": "10 overs"
+            },
+            {
+                "q": "What happens if the ball is bowled above the batsman's waist?",
+                "o": ["No ball", "Wide", "Dead ball", "Bye"],
+                "a": "No ball"
+            },
+            {
+                "q": "What is the maximum number of reviews allowed per team in a Test match?",
+                "o": ["1", "2", "3", "4"],
+                "a": "2"
+            },
+            {
+                "q": "What is the maximum duration of a review in a Test match?",
+                "o": ["15 seconds", "30 seconds", "45 seconds", "1 minute"],
+                "a": "1 minute"
+            },
+            {
+                "q": "What is the minimum number of overs a team must face to constitute a match in Test cricket?",
+                "o": ["15 overs", "20 overs", "25 overs", "30 overs"],
+                "a": "20 overs"
+            },
+            {
+                "q": "What happens if the ball hits the batsman's body but not their bat?",
+                "o": ["No runs awarded", "Leg bye", "Bye", "Dead ball"],
+                "a": "No runs awarded"
+            },
+            {
+                "q": "What is the maximum number of overs a bowler can bowl in a single spell in a T20 International match?",
+                "o": ["2 overs", "3 overs", "4 overs", "5 overs"],
+                "a": "4 overs"
+            },
+            {
+                "q": "What happens if the batsman touches the fielding side's equipment?",
+                "o": ["No runs", "Penalty runs", "Out", "Dead ball"],
+                "a": "No runs"
+            },
+            {
+                "q": "What is the maximum duration of a lunch break in a Test match?",
+                "o": ["30 minutes", "45 minutes", "1 hour", "1 hour 30 minutes"],
+                "a": "1 hour 30 minutes"
+            },
+            {
+                "q": "What happens if the batsman hits the ball twice in defense?",
+                "o": ["No runs awarded", "Out", "Dead ball", "Five penalty runs"],
+                "a": "Out"
+            },
+            {
+                "q": "What happens if the bowler bowls a high full toss above the batsman's waist?",
+                "o": ["No ball", "Wide", "Dead ball", "Bye"],
+                "a": "No ball"
+            },
+            {
+                "q": "What is the maximum number of bouncers allowed in an over in limited-overs cricket?",
+                "o": ["1", "2", "3", "4"],
+                "a": "1"
+            },
+            {
+                "q": "What happens if the batsman hits the ball into the ground and it bounces over the boundary?",
+                "o": ["Four runs", "Six runs", "No ball", "Wide"],
+                "a": "Four runs"
+            },
+            {
+                "q": "What happens if the batsman runs on the pitch instead of the adjacent running area?",
+                "o": ["No runs awarded", "Out", "Penalty runs", "Dead ball"],
+                "a": "No runs awarded"
+            },
+            {
+                "q": "What is the maximum duration of a tea break in a Test match?",
+                "o": ["15 minutes", "30 minutes", "45 minutes", "1 hour"],
+                "a": "1 hour"
+            },
+            {
+                "q": "What happens if the ball hits the bowler's hat during delivery?",
+                "o": ["No runs", "Dead ball", "Penalty runs", "Wide"],
+                "a": "No runs"
+            },
+            {
+                "q": "What is the minimum number of overs required in the second innings of a Test match for a result to be valid?",
+                "o": ["20 overs", "25 overs", "30 overs", "35 overs"],
+                "a": "20 overs"
+            },
+            {
+                "q": "What happens if the fielding team obstructs the batsman while attempting a run?",
+                "o": ["Penalty runs", "No penalty", "Out", "Dead ball"],
+                "a": "Penalty runs"
+            },
+            {
+                "q": "What is the maximum duration of a drinks break in a Test match?",
+                "o": ["5 minutes", "10 minutes", "15 minutes", "20 minutes"],
+                "a": "15 minutes"
+            },
+            {
+                "q": "What happens if the batsman attempts to switch-hit but misses the ball?",
+                "o": ["Out", "Wide", "No ball", "Dead ball"],
+                "a": "Out"
+            },
+            {
+                "q": "What is the maximum duration of a delay allowed for bad light in a Test match?",
+                "o": ["15 minutes", "30 minutes", "45 minutes", "1 hour"],
+                "a": "1 hour"
+            },
+            {
+                "q": "What happens if the batsman runs on the protected area of the pitch?",
+                "o": ["Penalty runs", "No runs", "Out", "Dead ball"],
+                "a": "Penalty runs"
+            },
+            {
+                "q": "What is the maximum duration of an innings break in a T20 International match?",
+                "o": ["10 minutes", "15 minutes", "20 minutes", "25 minutes"],
+                "a": "20 minutes"
+            },
+            {
+                "q": "What happens if the batsman hits the ball and it lodges in the fielder's clothing?",
+                "o": ["No runs", "Out", "Six runs", "Dead ball"],
+                "a": "Six runs"
+            },
+            {
+                "q": "What is the maximum duration of an innings break in a One Day International match?",
+                "o": ["30 minutes", "40 minutes", "50 minutes", "1 hour"],
+                "a": "50 minutes"
+            },
+            {
+                "q": "What happens if the batsman hits the ball twice in the process of running?",
+                "o": ["Out", "No runs awarded", "Dead ball", "Five penalty runs"],
+                "a": "Out"
+            },
+            {
+                "q": "What is the maximum duration of an innings break in a Test match?",
+                "o": ["30 minutes", "40 minutes", "50 minutes", "1 hour"],
+                "a": "1 hour"
+            },
+            {
+                "q": "What happens if the batsman obstructs the fielding side while attempting a run?",
+                "o": ["Out", "No runs awarded", "Dead ball", "Five penalty runs"],
+                "a": "Out"
+            },
+            {
+                "q": "What is the maximum duration of an innings break in a One Day International match?",
+                "o": ["30 minutes", "40 minutes", "50 minutes", "1 hour"],
+                "a": "1 hour"
+            }
+        ],
+        "terminology": [
+            {
+                "q": "What does LBW stand for in cricket?",
+                "o": ["Leg Before Wicket", "Leg Behind Wicket", "Leg Beyond Wicket", "Leg Between Wickets"],
+                "a": "Leg Before Wicket"
+            },
+            {
+                "q": "What is the term for a delivery that pitches outside the leg stump in cricket?",
+                "o": ["Wide", "No Ball", "Full Toss", "Leg Spin"],
+                "a": "Wide"
+            },
+            {
+                "q": "In cricket, what is a googly?",
+                "o": ["A type of delivery bowled by a fast bowler", "A delivery that spins in the opposite direction to the leg spinner's stock delivery", "A fast bouncer", "A yorker that swings away from the batsman"],
+                "a": "A delivery that spins in the opposite direction to the leg spinner's stock delivery"
+            },
+            {
+                "q": "What is the term for a delivery that is bowled at a very high speed?",
+                "o": ["Fast ball", "Slow ball", "Bouncer", "Yorker"],
+                "a": "Bouncer"
+            },
+            {
+                "q": "What does the term 'duck' mean in cricket?",
+                "o": ["A type of delivery", "A score of zero by a batsman", "A fielding position", "A type of dismissal"],
+                "a": "A score of zero by a batsman"
+            },
+            {
+                "q": "In cricket, what is a yorker?",
+                "o": ["A type of delivery bowled by a spinner", "A full-pitched delivery aimed at the batsman's feet", "A delivery that bounces twice before reaching the batsman", "A wide delivery"],
+                "a": "A full-pitched delivery aimed at the batsman's feet"
+            },
+            {
+                "q": "What is the term for the area of the field where the batsman stands?",
+                "o": ["Pitch", "Square", "Boundary", "Crease"],
+                "a": "Crease"
+            },
+            {
+                "q": "What is the term for the area of the field where the ball must land to be considered a legal delivery?",
+                "o": ["Stump", "Pitch", "Line", "Crease"],
+                "a": "Pitch"
+            },
+            {
+                "q": "In cricket, what is the term for a fielding position close to the wicket-keeper?",
+                "o": ["Slip", "Square leg", "Mid-wicket", "Fine leg"],
+                "a": "Slip"
+            },
+            {
+                "q": "What is the term for the set of wooden stumps that the batsman defends?",
+                "o": ["Paddle", "Bat", "Wicket", "Stump"],
+                "a": "Wicket"
+            },
+            {
+                "q": "In cricket, what does the term 'bouncer' refer to?",
+                "o": ["A fast delivery that bounces high over the batsman's head", "A slower delivery that bounces low", "A yorker that swings away from the batsman", "A full-pitched delivery aimed at the batsman's feet"],
+                "a": "A fast delivery that bounces high over the batsman's head"
+            },
+            {
+                "q": "What is the term for a batsman's act of defending their wicket without attempting to score runs?",
+                "o": ["Dot ball", "Forward defence", "Leave", "Block"],
+                "a": "Forward defence"
+            },
+            {
+                "q": "In cricket, what is a 'dot ball'?",
+                "o": ["A delivery that bounces twice before reaching the batsman", "A delivery that the batsman misses and doesn't score off", "A delivery that is illegally bowled", "A delivery that the batsman hits for a boundary"],
+                "a": "A delivery that the batsman misses and doesn't score off"
+            },
+            {
+                "q": "What is the term for the movement of the ball after it bounces off the pitch?",
+                "o": ["Swing", "Spin", "Bounce", "Seam"],
+                "a": "Bounce"
+            },
+            {
+                "q": "In cricket, what is a 'no-ball'?",
+                "o": ["A delivery that is illegally bowled", "A delivery that results in a run scored by the batsman", "A delivery that bounces twice before reaching the batsman", "A delivery that is hit for a boundary"],
+                "a": "A delivery that is illegally bowled"
+            },
+            {
+                "q": "What is the term for the line behind which the bowler must deliver the ball?",
+                "o": ["Popping crease", "Return crease", "Bowling crease", "Stump line"],
+                "a": "Bowling crease"
+            },
+            {
+                "q": "In cricket, what does the term 'spinner' refer to?",
+                "o": ["A bowler who bowls slow deliveries with a lot of spin", "A bowler who bowls fast deliveries with little spin", "A type of delivery that spins in the opposite direction to the leg spinner's stock delivery", "A delivery that bounces twice before reaching the batsman"],
+                "a": "A bowler who bowls slow deliveries with a lot of spin"
+            },
+            {
+                "q": "What is the term for a delivery that bounces very close to the batsman?",
+                "o": ["Full toss", "Bouncer", "Yorker", "Beamer"],
+                "a": "Beamer"
+            },
+            {
+                "q": "In cricket, what is a 'full toss'?",
+                "o": ["A delivery that bounces twice before reaching the batsman", "A delivery that bounces very close to the batsman", "A delivery that is bowled at a very high speed", "A delivery that is full-pitched and does not bounce much"],
+                "a": "A delivery that is full-pitched and does not bounce much"
+            },
+            {
+                "q": "What is the term for a delivery that pitches on or outside the off stump and moves away from the batsman?",
+                "o": ["Inswinger", "Outswinger", "Yorker", "Googly"],
+                "a": "Outswinger"
+            },
+            {
+                "q": "In cricket, what does the term 'run-out' refer to?",
+                "o": ["A dismissal where the bowler knocks over the stumps with the ball", "A dismissal where the fielding team appeals to the umpire", "A dismissal where the batsman is caught by a fielder", "A dismissal where a batsman is run out of their crease while attempting a run"],
+                "a": "A dismissal where a batsman is run out of their crease while attempting a run"
+            },
+            {
+                "q": "What is the term for a delivery that pitches on or outside the leg stump and moves into the batsman?",
+                "o": ["Outswinger", "Inswinger", "Yorker", "Doosra"],
+                "a": "Inswinger"
+            },
+            {
+                "q": "In cricket, what does the term 'run-rate' refer to?",
+                "o": ["The speed at which a batsman scores runs", "The speed at which a bowler delivers the ball", "The average number of runs scored per over", "The number of wickets taken by a bowler"],
+                "a": "The average number of runs scored per over"
+            },
+            {
+                "q": "What is the term for a delivery that is aimed at the batsman's feet?",
+                "o": ["Full toss", "Bouncer", "Yorker", "Beamer"],
+                "a": "Yorker"
+            },
+            {
+                "q": "In cricket, what is a 'silly point'?",
+                "o": ["A fielding position close to the batsman on the off side", "A fielding position close to the batsman on the leg side", "A fielding position behind the wicket-keeper", "A fielding position in the outfield"],
+                "a": "A fielding position close to the batsman on the leg side"
+            },
+            {
+                "q": "What is the term for a delivery that pitches on or around the leg stump and moves away from the batsman?",
+                "o": ["Outswinger", "Inswinger", "Googly", "Doosra"],
+                "a": "Outswinger"
+            },
+            {
+                "q": "In cricket, what does the term 'off cutter' refer to?",
+                "o": ["A type of delivery bowled by a fast bowler", "A delivery that moves into the right-handed batsman after pitching", "A delivery that spins away from the right-handed batsman after pitching", "A slower delivery"],
+                "a": "A delivery that moves into the right-handed batsman after pitching"
+            },
+            {
+                "q": "What is the term for a delivery that pitches on or around the leg stump and moves into the batsman?",
+                "o": ["Outswinger", "Inswinger", "Googly", "Doosra"],
+                "a": "Inswinger"
+            },
+            {
+                "q": "In cricket, what does the term 'sledging' refer to?",
+                "o": ["The act of the fielding team appealing to the umpire", "The act of the batsman hitting the ball into the air", "The act of the bowler bowling a delivery above waist height", "The act of verbally distracting or intimidating the batsman"],
+                "a": "The act of verbally distracting or intimidating the batsman"
+            },
+            {
+                "q": "What is the term for a delivery that is bowled with a round-arm action?",
+                "o": ["Leg spin", "Off spin", "Medium pace", "Underarm"],
+                "a": "Medium pace"
+            },
+            {
+                "q": "In cricket, what does the term 'maiden over' mean?",
+                "o": ["An over in which no runs are scored by the batsman", "An over in which the bowler takes a wicket", "An over in which the bowler concedes less than five runs", "An over in which the bowler bowls six balls"],
+                "a": "An over in which no runs are scored by the batsman"
+            },
+            {
+                "q": "What is the term for a delivery that is aimed at the batsman's head?",
+                "o": ["Full toss", "Bouncer", "Yorker", "Beamer"],
+                "a": "Beamer"
+            },
+            {
+                "q": "In cricket, what does the term 'nightwatchman' refer to?",
+                "o": ["A batsman sent in to bat late in the day to protect the wicket of a specialist batsman", "A fielder positioned close to the batsman to catch any deflections", "A bowler who bowls the final over of the match", "A player who bats with a helmet equipped with a camera for broadcasting purposes"],
+                "a": "A batsman sent in to bat late in the day to protect the wicket of a specialist batsman"
+            },
+            {
+                "q": "What is the term for a batsman's act of leaving the ball without attempting to play a shot?",
+                "o": ["Dot ball", "Forward defence", "Leave", "Block"],
+                "a": "Leave"
+            },
+            {
+                "q": "In cricket, what does the term 'googly' refer to?",
+                "o": ["A type of delivery bowled by a fast bowler", "A delivery that moves into the right-handed batsman after pitching", "A delivery that spins in the opposite direction to the leg spinner's stock delivery", "A yorker that swings away from the batsman"],
+                "a": "A delivery that spins in the opposite direction to the leg spinner's stock delivery"
+            },
+            {
+                "q": "What is the term for a delivery that spins into the batsman?",
+                "o": ["Leg spin", "Off spin", "Medium pace", "Underarm"],
+                "a": "Off spin"
+            },
+            {
+                "q": "In cricket, what does the term 'long hop' refer to?",
+                "o": ["A type of delivery bowled by a fast bowler", "A delivery that bounces low and is easy to hit", "A delivery that bounces high over the batsman's head", "A delivery that bounces very close to the batsman"],
+                "a": "A delivery that bounces high over the batsman's head"
+            },
+            {
+                "q": "What is the term for a delivery that pitches on or around the off stump and moves into the batsman?",
+                "o": ["Outswinger", "Inswinger", "Googly", "Doosra"],
+                "a": "Inswinger"
+            },
+            {
+                "q": "In cricket, what does the term 'bump ball' refer to?",
+                "o": ["A delivery that bounces high over the batsman's head", "A delivery that bounces low and is easy to hit", "A delivery that bounces very close to the batsman", "A delivery that hits the ground before reaching the batsman's bat"],
+                "a": "A delivery that hits the ground before reaching the batsman's bat"
+            },
+            {
+                "q": "What is the term for a delivery that pitches on or around the off stump and moves away from the batsman?",
+                "o": ["Inswinger", "Outswinger", "Yorker", "Googly"],
+                "a": "Outswinger"
+            },
+            {
+                "q": "In cricket, what does the term 'dismissal' refer to?",
+                "o": ["A delivery that results in a run scored by the batsman", "A type of delivery", "A wicket taken by the fielding team", "An act of the batsman getting out"],
+                "a": "An act of the batsman getting out"
+            },
+            {
+                "q": "What is the term for a delivery that bounces low and is easy to hit?",
+                "o": ["Full toss", "Bouncer", "Yorker", "Long hop"],
+                "a": "Long hop"
+            },
+            {
+                "q": "In cricket, what does the term 'wicket' refer to?",
+                "o": ["The pitch", "The area of the field where the batsman stands", "The set of wooden stumps that the batsman defends", "The area of the field where the ball must land to be considered a legal delivery"],
+                "a": "The set of wooden stumps that the batsman defends"
+            },
+            {
+                "q": "What is the term for a delivery that spins away from the batsman?",
+                "o": ["Leg spin", "Off spin", "Medium pace", "Underarm"],
+                "a": "Leg spin"
+            },
+            {
+                "q": "In cricket, what does the term 'cover drive' refer to?",
+                "o": ["A type of delivery", "A type of shot played by the batsman", "A fielding position close to the wicket-keeper", "A fielding position close to the boundary"],
+                "a": "A type of shot played by the batsman"
+            },
+            {
+                "q": "What is the term for a delivery that is bowled with a low arm action?",
+                "o": ["Leg spin", "Off spin", "Medium pace", "Underarm"],
+                "a": "Underarm"
+            }
+        ]
+        
+    },
+    "players": {
+        "legends": [
+            {
+                "q": "Which legendary cricketer was known as the 'Master Blaster'?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is famously known as the 'Sultan of Swing'?",
+                "o": ["Wasim Akram", "Glenn McGrath", "Curtly Ambrose", "Brett Lee"],
+                "a": "Wasim Akram"
+            },
+            {
+                "q": "Which cricketer is known as the 'Prince of Kolkata'?",
+                "o": ["Rahul Dravid", "Virender Sehwag", "Sourav Ganguly", "Anil Kumble"],
+                "a": "Sourav Ganguly"
+            },
+            {
+                "q": "Who is often referred to as the 'King of Spin'?",
+                "o": ["Anil Kumble", "Shane Warne", "Muttiah Muralitharan", "Saqlain Mushtaq"],
+                "a": "Shane Warne"
+            },
+            {
+                "q": "Which cricketer was known as the 'Wall'?",
+                "o": ["Rahul Dravid", "Steve Waugh", "Ricky Ponting", "Alastair Cook"],
+                "a": "Rahul Dravid"
+            },
+            {
+                "q": "Who is often called the 'Rawalpindi Express'?",
+                "o": ["Shoaib Akhtar", "Brett Lee", "Glenn McGrath", "Mitchell Johnson"],
+                "a": "Shoaib Akhtar"
+            },
+            {
+                "q": "Which cricketer is known as the 'Little Master'?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is known as 'Mr. 360'?",
+                "o": ["Virat Kohli", "AB de Villiers", "Chris Gayle", "Kumar Sangakkara"],
+                "a": "AB de Villiers"
+            },
+            {
+                "q": "Which cricketer is often referred to as the 'Rawalpindi Express'?",
+                "o": ["Shoaib Akhtar", "Brett Lee", "Glenn McGrath", "Mitchell Johnson"],
+                "a": "Shoaib Akhtar"
+            },
+            {
+                "q": "Who is known as the 'Yorker King'?",
+                "o": ["Lasith Malinga", "Jasprit Bumrah", "Mitchell Starc", "Dale Steyn"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'The Turbanator'?",
+                "o": ["Harbhajan Singh", "Anil Kumble", "Ravichandran Ashwin", "Ravindra Jadeja"],
+                "a": "Harbhajan Singh"
+            },
+            {
+                "q": "Who is known as 'Punter'?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Brian Lara", "Jacques Kallis"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Which cricketer is known as 'The Finisher'?",
+                "o": ["MS Dhoni", "Virat Kohli", "AB de Villiers", "Chris Gayle"],
+                "a": "MS Dhoni"
+            },
+            {
+                "q": "Who is often called the 'Master of Reverse Swing'?",
+                "o": ["Wasim Akram", "Brett Lee", "Curtly Ambrose", "Shaun Pollock"],
+                "a": "Wasim Akram"
+            },
+            {
+                "q": "Which cricketer is known as the 'Pocket Dynamite'?",
+                "o": ["David Warner", "Rohit Sharma", "Martin Guptill", "Sunil Narine"],
+                "a": "David Warner"
+            },
+            {
+                "q": "Who is known as 'Jumbo'?",
+                "o": ["Anil Kumble", "Rahul Dravid", "Sourav Ganguly", "VVS Laxman"],
+                "a": "Anil Kumble"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'Whispering Death'?",
+                "o": ["Michael Holding", "Malcolm Marshall", "Curtly Ambrose", "Courtney Walsh"],
+                "a": "Michael Holding"
+            },
+            {
+                "q": "Who is known as the 'Haryana Hurricane'?",
+                "o": ["Kapil Dev", "Virender Sehwag", "Yuvraj Singh", "MS Dhoni"],
+                "a": "Kapil Dev"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Pup'?",
+                "o": ["Michael Clarke", "Ricky Ponting", "Shane Warne", "Adam Gilchrist"],
+                "a": "Michael Clarke"
+            },
+            {
+                "q": "Who is known as 'Sanga'?",
+                "o": ["Kumar Sangakkara", "Mahela Jayawardene", "Sanath Jayasuriya", "Lasith Malinga"],
+                "a": "Kumar Sangakkara"
+            },
+            {
+                "q": "Which cricketer is often called 'The Wall'?",
+                "o": ["Rahul Dravid", "Sachin Tendulkar", "Brian Lara", "Jacques Kallis"],
+                "a": "Rahul Dravid"
+            },
+            {
+                "q": "Who is known as 'Nawab of Najafgarh'?",
+                "o": ["Virender Sehwag", "Gautam Gambhir", "Yuvraj Singh", "MS Dhoni"],
+                "a": "Virender Sehwag"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'White Lightning'?",
+                "o": ["Allan Donald", "Shaun Pollock", "Dale Steyn", "Makhaya Ntini"],
+                "a": "Allan Donald"
+            },
+            {
+                "q": "Who is known as 'Boom Boom'?",
+                "o": ["Shahid Afridi", "Kapil Dev", "Yuvraj Singh", "MS Dhoni"],
+                "a": "Shahid Afridi"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Nas'?",
+                "o": ["Michael Vaughan", "Darren Gough", "Nasser Hussain", "Graeme Swann"],
+                "a": "Nasser Hussain"
+            },
+            {
+                "q": "Who is known as 'Gilly'?",
+                "o": ["Adam Gilchrist", "Ricky Ponting", "Glenn McGrath", "Shane Warne"],
+                "a": "Adam Gilchrist"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'King Viv'?",
+                "o": ["Viv Richards", "Brian Lara", "Sachin Tendulkar", "Jacques Kallis"],
+                "a": "Viv Richards"
+            },
+            {
+                "q": "Who is known as 'The Big Show'?",
+                "o": ["Glenn Maxwell", "David Warner", "Shane Watson", "Andre Russell"],
+                "a": "Glenn Maxwell"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Watto'?",
+                "o": ["Shane Watson", "David Warner", "Glenn Maxwell", "Dale Steyn"],
+                "a": "Shane Watson"
+            },
+            {
+                "q": "Who is known as 'Little Kalu'?",
+                "o": ["Aravinda de Silva", "Kumar Sangakkara", "Sanath Jayasuriya", "Muttiah Muralitharan"],
+                "a": "Sanath Jayasuriya"
+            },
+            {
+                "q": "Which cricketer is often called 'The Master'?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Brian Lara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is known as 'The Wall'?",
+                "o": ["Rahul Dravid", "Sachin Tendulkar", "Brian Lara", "Jacques Kallis"],
+                "a": "Rahul Dravid"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Faf'?",
+                "o": ["Faf du Plessis", "David Warner", "Hashim Amla", "AB de Villiers"],
+                "a": "Faf du Plessis"
+            },
+            {
+                "q": "Who is known as 'Big Bird'?",
+                "o": ["Joel Garner", "Michael Holding", "Curtly Ambrose", "Courtney Walsh"],
+                "a": "Joel Garner"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'Jinx'?",
+                "o": ["Ajinkya Rahane", "Virat Kohli", "Rohit Sharma", "Cheteshwar Pujara"],
+                "a": "Ajinkya Rahane"
+            },
+            {
+                "q": "Who is known as 'Mr. Cricket'?",
+                "o": ["Michael Hussey", "Ricky Ponting", "Adam Gilchrist", "Shane Warne"],
+                "a": "Michael Hussey"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Big Vern'?",
+                "o": ["Vernon Philander", "Dale Steyn", "Kagiso Rabada", "Morne Morkel"],
+                "a": "Vernon Philander"
+            },
+            {
+                "q": "Who is known as 'Yorker King'?",
+                "o": ["Lasith Malinga", "Jasprit Bumrah", "Mitchell Starc", "Dale Steyn"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'VVS'?",
+                "o": ["VVS Laxman", "Rahul Dravid", "Sachin Tendulkar", "Anil Kumble"],
+                "a": "VVS Laxman"
+            },
+            {
+                "q": "Who is known as 'Pigeon'?",
+                "o": ["Glenn McGrath", "Shane Warne", "Brett Lee", "Mitchell Johnson"],
+                "a": "Glenn McGrath"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Killer'?",
+                "o": ["Makhaya Ntini", "Allan Donald", "Shaun Pollock", "Jacques Kallis"],
+                "a": "Makhaya Ntini"
+            },
+            {
+                "q": "Who is known as 'Chinaman'?",
+                "o": ["Kuldeep Yadav", "Yuzvendra Chahal", "Brad Hogg", "Shane Warne"],
+                "a": "Brad Hogg"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'Ryno'?",
+                "o": ["Ryan Harris", "Dale Steyn", "Mitchell Johnson", "Brett Lee"],
+                "a": "Ryan Harris"
+            },
+            {
+                "q": "Who is known as 'Ammo'?",
+                "o": ["Shaun Pollock", "Jacques Kallis", "Allan Donald", "Makhaya Ntini"],
+                "a": "Shaun Pollock"
+            },
+            {
+                "q": "Which cricketer is nicknamed 'Wizzy'?",
+                "o": ["Adam Zampa", "Andrew Tye", "Nathan Lyon", "Glenn Maxwell"],
+                "a": "Adam Zampa"
+            },
+            {
+                "q": "Who is known as 'Nehraji'?",
+                "o": ["Ashish Nehra", "Zaheer Khan", "Harbhajan Singh", "Irfan Pathan"],
+                "a": "Ashish Nehra"
+            },
+            {
+                "q": "Which cricketer is often referred to as 'Steyn Gun'?",
+                "o": ["Dale Steyn", "Kagiso Rabada", "Vernon Philander", "Morne Morkel"],
+                "a": "Dale Steyn"
+            },
+            {
+                "q": "Who is known as 'Dizzy'?",
+                "o": ["Jason Gillespie", "Glenn McGrath", "Shane Warne", "Brett Lee"],
+                "a": "Jason Gillespie"
+            }
+        ],
+        "current_stars": [
+            {
+                "q": "Who is known as the 'Run Machine' in modern cricket?",
+                "o": ["Virat Kohli", "Steve Smith", "Kane Williamson", "Joe Root"],
+                "a": "Virat Kohli"
+            },
+            {
+                "q": "Which player holds the record for the fastest century in Twenty20 Internationals?",
+                "o": ["David Miller", "Aaron Finch", "Chris Gayle", "Rohit Sharma"],
+                "a": "David Miller"
+            },
+            {
+                "q": "Who is the current number one ranked bowler in the ICC ODI rankings?",
+                "o": ["Trent Boult", "Rashid Khan", "Jasprit Bumrah", "Kagiso Rabada"],
+                "a": "Trent Boult"
+            },
+            {
+                "q": "Which player holds the record for the highest individual score in Test cricket?",
+                "o": ["Steve Smith", "Kumar Sangakkara", "Brian Lara", "Ben Stokes"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 100 wickets in One Day Internationals?",
+                "o": ["Mitchell Starc", "Saqlain Mushtaq", "Rashid Khan", "Shakib Al Hasan"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Which player has the highest individual score in a One Day International match?",
+                "o": ["Rohit Sharma", "Martin Guptill", "Virender Sehwag", "Sachin Tendulkar"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the current captain of the Australian cricket team in Test matches?",
+                "o": ["Tim Paine", "Steve Smith", "Pat Cummins", "David Warner"],
+                "a": "Pat Cummins"
+            },
+            {
+                "q": "Who holds the record for the most sixes in Twenty20 Internationals?",
+                "o": ["Chris Gayle", "Rohit Sharma", "Martin Guptill", "David Warner"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who is the highest run-scorer in Twenty20 Internationals?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Martin Guptill", "Babar Azam"],
+                "a": "Martin Guptill"
+            },
+            {
+                "q": "Who has the highest batting average in Test cricket among current players?",
+                "o": ["Steve Smith", "Virat Kohli", "Kane Williamson", "Joe Root"],
+                "a": "Steve Smith"
+            },
+            {
+                "q": "Who is the current number one ranked batsman in the ICC Test rankings?",
+                "o": ["Steve Smith", "Virat Kohli", "Kane Williamson", "Joe Root"],
+                "a": "Kane Williamson"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 50 wickets in Test cricket?",
+                "o": ["Ravichandran Ashwin", "Ravindra Jadeja", "Pat Cummins", "Jasprit Bumrah"],
+                "a": "Pat Cummins"
+            },
+            {
+                "q": "Who is the current captain of the Indian cricket team in One Day Internationals?",
+                "o": ["Virat Kohli", "Rohit Sharma", "KL Rahul", "Rishabh Pant"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the highest wicket-taker in One Day Internationals among current players?",
+                "o": ["Trent Boult", "Kagiso Rabada", "Jasprit Bumrah", "Mohammed Shami"],
+                "a": "Jasprit Bumrah"
+            },
+            {
+                "q": "Who is the highest wicket-taker in Test cricket among current players?",
+                "o": ["Ravichandran Ashwin", "Ravindra Jadeja", "Pat Cummins", "Jasprit Bumrah"],
+                "a": "Pat Cummins"
+            },
+            {
+                "q": "Who is known as 'Boom Boom' among cricket fans?",
+                "o": ["Rashid Khan", "Chris Gayle", "Shahid Afridi", "Andre Russell"],
+                "a": "Shahid Afridi"
+            },
+            {
+                "q": "Who holds the record for the fastest century in Test cricket?",
+                "o": ["Brendon McCullum", "Virender Sehwag", "Brian Lara", "David Warner"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who is the current captain of the Indian cricket team in Twenty20 Internationals?",
+                "o": ["Virat Kohli", "Rohit Sharma", "KL Rahul", "Rishabh Pant"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the highest run-scorer in Test cricket among current players?",
+                "o": ["Steve Smith", "Virat Kohli", "Kane Williamson", "Joe Root"],
+                "a": "Steve Smith"
+            },
+            {
+                "q": "Who is the current captain of the New Zealand cricket team in One Day Internationals?",
+                "o": ["Kane Williamson", "Ross Taylor", "Tim Southee", "Tom Latham"],
+                "a": "Kane Williamson"
+            },
+            {
+                "q": "Who is the current captain of the England cricket team in Test matches?",
+                "o": ["Joe Root", "Ben Stokes", "Jos Buttler", "Eoin Morgan"],
+                "a": "Joe Root"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 Test wickets?",
+                "o": ["Dale Steyn", "Kagiso Rabada", "Jasprit Bumrah", "Pat Cummins"],
+                "a": "Dale Steyn"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 300 Test wickets?",
+                "o": ["Muttiah Muralitharan", "Richard Hadlee", "Dennis Lillee", "Ravichandran Ashwin"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the current captain of the England cricket team in Twenty20 Internationals?",
+                "o": ["Eoin Morgan", "Jos Buttler", "Joe Root", "Ben Stokes"],
+                "a": "Eoin Morgan"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in a Test match among current players?",
+                "o": ["Steve Smith", "Virat Kohli", "Kane Williamson", "Joe Root"],
+                "a": "Steve Smith"
+            },
+            {
+                "q": "Who is the current captain of the South Africa cricket team in Twenty20 Internationals?",
+                "o": ["Quinton de Kock", "Faf du Plessis", "Kagiso Rabada", "Temba Bavuma"],
+                "a": "Quinton de Kock"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 50 Test wickets?",
+                "o": ["Jasprit Bumrah", "Ravindra Jadeja", "Ravichandran Ashwin", "Pat Cummins"],
+                "a": "Jasprit Bumrah"
+            },
+            {
+                "q": "Who holds the record for the most centuries in One Day Internationals among current players?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Hashim Amla", "AB de Villiers"],
+                "a": "Virat Kohli"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in Twenty20 Internationals?",
+                "o": ["Aaron Finch", "Chris Gayle", "Rohit Sharma", "Colin Munro"],
+                "a": "Aaron Finch"
+            },
+            {
+                "q": "Who is the highest run-scorer in One Day Internationals among current players?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Kane Williamson", "AB de Villiers"],
+                "a": "Virat Kohli"
+            },
+            {
+                "q": "Who is the current captain of the Australian cricket team in Twenty20 Internationals?",
+                "o": ["Aaron Finch", "Steve Smith", "David Warner", "Glenn Maxwell"],
+                "a": "Aaron Finch"
+            },
+            {
+                "q": "Who is the current captain of the Indian cricket team in Test matches?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Ajinkya Rahane", "Cheteshwar Pujara"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the current captain of the Pakistan cricket team in Test matches?",
+                "o": ["Babar Azam", "Azhar Ali", "Sarfaraz Ahmed", "Mohammad Rizwan"],
+                "a": "Babar Azam"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in a One Day International match among current players?",
+                "o": ["Rohit Sharma", "Martin Guptill", "David Warner", "Fakhar Zaman"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the current captain of the West Indies cricket team in Test matches?",
+                "o": ["Kieron Pollard", "Jason Holder", "Darren Sammy", "Kraigg Brathwaite"],
+                "a": "Kraigg Brathwaite"
+            },
+            {
+                "q": "Who is the current captain of the New Zealand cricket team in Twenty20 Internationals?",
+                "o": ["Kane Williamson", "Ross Taylor", "Tim Southee", "Martin Guptill"],
+                "a": "Kane Williamson"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 100 Test wickets?",
+                "o": ["Ravichandran Ashwin", "Ravindra Jadeja", "Rashid Khan", "Kagiso Rabada"],
+                "a": "Ravichandran Ashwin"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in Test cricket?",
+                "o": ["Brian Lara", "Don Bradman", "Sachin Tendulkar", "Ricky Ponting"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who is the highest run-scorer in Test cricket among current players?",
+                "o": ["Steve Smith", "Virat Kohli", "Kane Williamson", "Joe Root"],
+                "a": "Steve Smith"
+            },
+            {
+                "q": "Who is the current captain of the Sri Lanka cricket team in Test matches?",
+                "o": ["Dimuth Karunaratne", "Angelo Mathews", "Kusal Perera", "Dinesh Chandimal"],
+                "a": "Dimuth Karunaratne"
+            },
+            {
+                "q": "Who is the current captain of the South Africa cricket team in One Day Internationals?",
+                "o": ["Quinton de Kock", "Faf du Plessis", "Kagiso Rabada", "Temba Bavuma"],
+                "a": "Quinton de Kock"
+            },
+            {
+                "q": "Who is the highest run-scorer in Twenty20 Internationals among current players?",
+                "o": ["Martin Guptill", "Rohit Sharma", "Virat Kohli", "David Warner"],
+                "a": "Martin Guptill"
+            },
+            {
+                "q": "Who is the current captain of the Sri Lanka cricket team in One Day Internationals?",
+                "o": ["Kusal Perera", "Angelo Mathews", "Dimuth Karunaratne", "Dinesh Chandimal"],
+                "a": "Kusal Perera"
+            },
+            {
+                "q": "Who is the highest wicket-taker in Twenty20 Internationals among current players?",
+                "o": ["Lasith Malinga", "Rashid Khan", "Jasprit Bumrah", "Shakib Al Hasan"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Who is the current captain of the Pakistan cricket team in Twenty20 Internationals?",
+                "o": ["Babar Azam", "Shadab Khan", "Mohammad Rizwan", "Fakhar Zaman"],
+                "a": "Babar Azam"
+            },
+            {
+                "q": "Who holds the record for the most centuries in Test cricket among current players?",
+                "o": ["Steve Smith", "Virat Kohli", "Kane Williamson", "Joe Root"],
+                "a": "Steve Smith"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in a Twenty20 International match?",
+                "o": ["Aaron Finch", "Glenn Maxwell", "Rohit Sharma", "Chris Gayle"],
+                "a": "Aaron Finch"
+            },
+            {
+                "q": "Who is the highest run-scorer in One Day Internationals among current players?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Kane Williamson", "AB de Villiers"],
+                "a": "Virat Kohli"
+            }
+        ],
+        "retired_players": [
+            {
+                "q": "Who is known as the 'Little Master' in cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Which legendary Australian cricketer was nicknamed 'Pigeon'?",
+                "o": ["Shane Warne", "Ricky Ponting", "Adam Gilchrist", "Glenn McGrath"],
+                "a": "Glenn McGrath"
+            },
+            {
+                "q": "Which West Indian cricketer was famously known as 'Master Blaster'?",
+                "o": ["Brian Lara", "Vivian Richards", "Chris Gayle", "Shivnarine Chanderpaul"],
+                "a": "Vivian Richards"
+            },
+            {
+                "q": "Who was the first cricketer to score a double century in One Day Internationals?",
+                "o": ["Sachin Tendulkar", "Brian Lara", "Virender Sehwag", "Martin Guptill"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Which former Pakistani cricketer was known as the 'Sultan of Swing'?",
+                "o": ["Wasim Akram", "Imran Khan", "Inzamam-ul-Haq", "Shoaib Akhtar"],
+                "a": "Wasim Akram"
+            },
+            {
+                "q": "Who holds the record for the fastest century in Test cricket?",
+                "o": ["Vivian Richards", "Brendon McCullum", "Misbah-ul-Haq", "Chris Gayle"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Which former Indian captain is known as 'Dada'?",
+                "o": ["Sachin Tendulkar", "Rahul Dravid", "Anil Kumble", "Sourav Ganguly"],
+                "a": "Sourav Ganguly"
+            },
+            {
+                "q": "Who was the first bowler to take 800 Test wickets?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Glenn McGrath", "Anil Kumble"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Which former South African cricketer was known as the 'White Lightning'?",
+                "o": ["Allan Donald", "Shaun Pollock", "Jacques Kallis", "Hansie Cronje"],
+                "a": "Allan Donald"
+            },
+            {
+                "q": "Who is the leading run-scorer in Test cricket?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Brian Lara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Which retired Indian cricketer is known for his nickname 'The Wall'?",
+                "o": ["Rahul Dravid", "VVS Laxman", "Sachin Tendulkar", "Anil Kumble"],
+                "a": "Rahul Dravid"
+            },
+            {
+                "q": "Who is the only player to have scored a century and taken 10 wickets in a Test match?",
+                "o": ["Imran Khan", "Shane Warne", "Ian Botham", "Kapil Dev"],
+                "a": "Ian Botham"
+            },
+            {
+                "q": "Which former Australian cricketer was known as 'Mr. Cricket'?",
+                "o": ["Adam Gilchrist", "Ricky Ponting", "Shane Warne", "Michael Hussey"],
+                "a": "Michael Hussey"
+            },
+            {
+                "q": "Who was the first cricketer to take 500 Test wickets?",
+                "o": ["Glenn McGrath", "Courtney Walsh", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Courtney Walsh"
+            },
+            {
+                "q": "Who is the only player to have scored centuries in both innings of a Test match three times?",
+                "o": ["Brian Lara", "Sachin Tendulkar", "Steve Waugh", "Ricky Ponting"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Which former Indian cricketer was known as the 'Haryana Hurricane'?",
+                "o": ["Kapil Dev", "Virender Sehwag", "Sourav Ganguly", "Sunil Gavaskar"],
+                "a": "Kapil Dev"
+            },
+            {
+                "q": "Who is the highest wicket-taker in One Day Internationals?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Wasim Akram", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Which former Australian cricketer was known as 'Tugga'?",
+                "o": ["Steve Waugh", "Mark Waugh", "Shane Warne", "Ricky Ponting"],
+                "a": "Steve Waugh"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in each innings of a Test match?",
+                "o": ["Sachin Tendulkar", "Sunil Gavaskar", "Don Bradman", "Ricky Ponting"],
+                "a": "Sunil Gavaskar"
+            },
+            {
+                "q": "Which former Pakistani cricketer was known as the 'Rawalpindi Express'?",
+                "o": ["Shoaib Akhtar", "Wasim Akram", "Inzamam-ul-Haq", "Saqlain Mushtaq"],
+                "a": "Shoaib Akhtar"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in Test cricket?",
+                "o": ["Brian Lara", "Matthew Hayden", "Virender Sehwag", "Don Bradman"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'Zak'?",
+                "o": ["Zaheer Khan", "VVS Laxman", "Sachin Tendulkar", "Anil Kumble"],
+                "a": "Zaheer Khan"
+            },
+            {
+                "q": "Who is the highest wicket-taker in T20 International cricket?",
+                "o": ["Lasith Malinga", "Shahid Afridi", "Brett Lee", "Anil Kumble"],
+                "a": "Shahid Afridi"
+            },
+            {
+                "q": "Which former West Indian cricketer was known as 'Whispering Death'?",
+                "o": ["Curtly Ambrose", "Courtney Walsh", "Malcolm Marshall", "Michael Holding"],
+                "a": "Michael Holding"
+            },
+            {
+                "q": "Who was the first cricketer to take 400 Test wickets?",
+                "o": ["Courtney Walsh", "Kapil Dev", "Richard Hadlee", "Dennis Lillee"],
+                "a": "Richard Hadlee"
+            },
+            {
+                "q": "Which former English cricketer was known as 'Beefy'?",
+                "o": ["Andrew Flintoff", "Ian Botham", "Kevin Pietersen", "Alastair Cook"],
+                "a": "Ian Botham"
+            },
+            {
+                "q": "Who is the only cricketer to have taken 10 wickets in an innings in Test cricket?",
+                "o": ["Anil Kumble", "Jim Laker", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'Viru'?",
+                "o": ["Virender Sehwag", "Sachin Tendulkar", "Rahul Dravid", "Sourav Ganguly"],
+                "a": "Virender Sehwag"
+            },
+            {
+                "q": "Who is the only player to have scored 400 runs in a single Test innings?",
+                "o": ["Brian Lara", "Matthew Hayden", "Virender Sehwag", "Don Bradman"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Which former Australian cricketer was known as 'Punter'?",
+                "o": ["Ricky Ponting", "Shane Warne", "Adam Gilchrist", "Glenn McGrath"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who was the first cricketer to take 300 Test wickets?",
+                "o": ["Kapil Dev", "Richard Hadlee", "Dennis Lillee", "Shane Warne"],
+                "a": "Dennis Lillee"
+            },
+            {
+                "q": "Which former Pakistani cricketer was known as 'Little Master'?",
+                "o": ["Hanif Mohammad", "Javed Miandad", "Inzamam-ul-Haq", "Saeed Anwar"],
+                "a": "Hanif Mohammad"
+            },
+            {
+                "q": "Who is the leading wicket-taker in One Day International cricket?",
+                "o": ["Wasim Akram", "Glenn McGrath", "Shane Warne", "Muttiah Muralitharan"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Which former Indian cricketer was known as 'Jumbo'?",
+                "o": ["Anil Kumble", "Sachin Tendulkar", "Rahul Dravid", "VVS Laxman"],
+                "a": "Anil Kumble"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in a One Day International match?",
+                "o": ["Dennis Amiss", "Sachin Tendulkar", "Clive Lloyd", "Vivian Richards"],
+                "a": "Dennis Amiss"
+            },
+            {
+                "q": "Which former West Indian cricketer was known as the 'Master Blaster'?",
+                "o": ["Vivian Richards", "Brian Lara", "Chris Gayle", "Shivnarine Chanderpaul"],
+                "a": "Vivian Richards"
+            },
+            {
+                "q": "Who is the only cricketer to score a century on debut in each innings of a Test match?",
+                "o": ["Steven Smith", "Sunil Gavaskar", "David Warner", "KL Rahul"],
+                "a": "Steven Smith"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'Jammy'?",
+                "o": ["Rahul Dravid", "VVS Laxman", "Sachin Tendulkar", "Anil Kumble"],
+                "a": "Rahul Dravid"
+            },
+            {
+                "q": "Who is the only player to have scored 300 runs in an innings in Test cricket?",
+                "o": ["Virender Sehwag", "Don Bradman", "Matthew Hayden", "Brian Lara"],
+                "a": "Don Bradman"
+            },
+            {
+                "q": "Which former Australian cricketer was known as 'Gilly'?",
+                "o": ["Adam Gilchrist", "Ricky Ponting", "Shane Warne", "Glenn McGrath"],
+                "a": "Adam Gilchrist"
+            },
+            {
+                "q": "Who was the first cricketer to score 10,000 runs in Test cricket?",
+                "o": ["Sunil Gavaskar", "Sachin Tendulkar", "Rahul Dravid", "Brian Lara"],
+                "a": "Sunil Gavaskar"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'Prince of Kolkata'?",
+                "o": ["Sourav Ganguly", "Rahul Dravid", "VVS Laxman", "Anil Kumble"],
+                "a": "Sourav Ganguly"
+            },
+            {
+                "q": "Who is the highest wicket-taker in Test cricket?",
+                "o": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Which former West Indian cricketer was known as the 'Prince of Trinidad'?",
+                "o": ["Brian Lara", "Vivian Richards", "Chris Gayle", "Shivnarine Chanderpaul"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who holds the record for the fastest century in One Day Internationals?",
+                "o": ["AB de Villiers", "Corey Anderson", "Shahid Afridi", "Chris Gayle"],
+                "a": "AB de Villiers"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'The Turbanator'?",
+                "o": ["Harbhajan Singh", "Anil Kumble", "Sourav Ganguly", "Virender Sehwag"],
+                "a": "Harbhajan Singh"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a triple century and taken a hat-trick in a Test match?",
+                "o": ["Wasim Akram", "Muttiah Muralitharan", "Jim Laker", "Ravichandran Ashwin"],
+                "a": "Wasim Akram"
+            },
+            {
+                "q": "Which former Indian cricketer was known as 'Jumbo'?",
+                "o": ["Anil Kumble", "Sachin Tendulkar", "Rahul Dravid", "VVS Laxman"],
+                "a": "Anil Kumble"
+            },
+            {
+                "q": "Who is the only cricketer to take 10 wickets in a Test innings and score a century in the same Test match?",
+                "o": ["Imran Khan", "Ian Botham", "Shane Warne", "Kapil Dev"],
+                "a": "Ian Botham"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'Dada'?",
+                "o": ["Sourav Ganguly", "VVS Laxman", "Rahul Dravid", "Sachin Tendulkar"],
+                "a": "Sourav Ganguly"
+            },
+            {
+                "q": "Who is the only cricketer to score a century in his 100th Test match?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Sunil Gavaskar", "Brian Lara"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Which retired Indian cricketer was known as 'Jumbo'?",
+                "o": ["Anil Kumble", "Sachin Tendulkar", "Rahul Dravid", "VVS Laxman"],
+                "a": "Anil Kumble"
+            }
+        ]        
+    },
+    "teams": {
+        "national_teams": [
+            {
+                "q": "Which country is known as the 'Baggy Greens'?",
+                "o": ["Australia", "England", "India", "South Africa"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which national cricket team is known as the 'Black Caps'?",
+                "o": ["New Zealand", "West Indies", "Sri Lanka", "Pakistan"],
+                "a": "New Zealand"
+            },
+            {
+                "q": "Which team is called the 'Men in Blue'?",
+                "o": ["India", "England", "South Africa", "Australia"],
+                "a": "India"
+            },
+            {
+                "q": "Which national cricket team is referred to as the 'Proteas'?",
+                "o": ["South Africa", "West Indies", "England", "Pakistan"],
+                "a": "South Africa"
+            },
+            {
+                "q": "Which team is called the 'Lions' in international cricket?",
+                "o": ["Sri Lanka", "Zimbabwe", "Bangladesh", "Afghanistan"],
+                "a": "Sri Lanka"
+            },
+            {
+                "q": "Which national cricket team is known as the 'Windies'?",
+                "o": ["West Indies", "New Zealand", "England", "Australia"],
+                "a": "West Indies"
+            },
+            {
+                "q": "Which team is called the 'Men in Green'?",
+                "o": ["Pakistan", "India", "Australia", "South Africa"],
+                "a": "Pakistan"
+            },
+            {
+                "q": "Which national cricket team is known as the 'Tigers'?",
+                "o": ["Bangladesh", "Zimbabwe", "Sri Lanka", "Afghanistan"],
+                "a": "Bangladesh"
+            },
+            {
+                "q": "Which team is called the 'Baggy Yellow'?",
+                "o": ["Australia", "India", "England", "South Africa"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which national cricket team is referred to as the 'Pak'?",
+                "o": ["Pakistan", "New Zealand", "Sri Lanka", "West Indies"],
+                "a": "Pakistan"
+            },
+            {
+                "q": "Which team is called the 'Men in Maroon'?",
+                "o": ["West Indies", "India", "Australia", "South Africa"],
+                "a": "West Indies"
+            },
+            {
+                "q": "Which national cricket team is known as the 'Kiwis'?",
+                "o": ["New Zealand", "West Indies", "England", "India"],
+                "a": "New Zealand"
+            },
+            {
+                "q": "Which team is called the 'Green Shirts'?",
+                "o": ["Pakistan", "India", "Australia", "South Africa"],
+                "a": "Pakistan"
+            },
+            {
+                "q": "Which national cricket team is referred to as the 'Proteas'?",
+                "o": ["South Africa", "New Zealand", "Sri Lanka", "West Indies"],
+                "a": "South Africa"
+            },
+            {
+                "q": "Which team is called the 'Men in Blue'?",
+                "o": ["India", "England", "Australia", "South Africa"],
+                "a": "India"
+            },
+            {
+                "q": "Which national cricket team is known as the 'Baggy Greens'?",
+                "o": ["Australia", "West Indies", "Sri Lanka", "Pakistan"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which team is called the 'Black Caps'?",
+                "o": ["New Zealand", "West Indies", "Sri Lanka", "India"],
+                "a": "New Zealand"
+            },
+            {
+                "q": "Which national cricket team is referred to as the 'Pak'?",
+                "o": ["Pakistan", "India", "Sri Lanka", "West Indies"],
+                "a": "Pakistan"
+            },
+            {
+                "q": "Which team is called the 'Lions' in international cricket?",
+                "o": ["Sri Lanka", "Zimbabwe", "Bangladesh", "Afghanistan"],
+                "a": "Sri Lanka"
+            },
+            {
+                "q": "Which national cricket team is known as the 'Men in Maroon'?",
+                "o": ["West Indies", "India", "Australia", "South Africa"],
+                "a": "West Indies"
+            }
+        ],
+        "domestic_teams": [
+            {
+                "q": "Which team has won the most Ranji Trophy titles in Indian domestic cricket?",
+                "o": ["Mumbai", "Delhi", "Karnataka", "Tamil Nadu"],
+                "a": "Mumbai"
+            },
+            {
+                "q": "Which team has won the most Duleep Trophy titles in Indian domestic cricket?",
+                "o": ["Mumbai", "Delhi", "Karnataka", "Tamil Nadu"],
+                "a": "Delhi"
+            },
+            {
+                "q": "Which team has won the most Irani Cup titles in Indian domestic cricket?",
+                "o": ["Mumbai", "Delhi", "Karnataka", "Tamil Nadu"],
+                "a": "Mumbai"
+            },
+            {
+                "q": "Which team has won the most Vijay Hazare Trophy titles in Indian domestic cricket?",
+                "o": ["Mumbai", "Delhi", "Karnataka", "Tamil Nadu"],
+                "a": "Tamil Nadu"
+            },
+            {
+                "q": "Which team has won the most Syed Mushtaq Ali Trophy titles in Indian domestic cricket?",
+                "o": ["Mumbai", "Delhi", "Karnataka", "Tamil Nadu"],
+                "a": "Karnataka"
+            },
+            {
+                "q": "Which team has won the most Sheffield Shield titles in Australian domestic cricket?",
+                "o": ["New South Wales", "Victoria", "Queensland", "Western Australia"],
+                "a": "New South Wales"
+            },
+            {
+                "q": "Which team has won the most Marsh One-Day Cup titles in Australian domestic cricket?",
+                "o": ["New South Wales", "Victoria", "Queensland", "Western Australia"],
+                "a": "Queensland"
+            },
+            {
+                "q": "Which team has won the most Big Bash League (BBL) titles in Australian domestic cricket?",
+                "o": ["Perth Scorchers", "Sydney Sixers", "Melbourne Renegades", "Adelaide Strikers"],
+                "a": "Sydney Sixers"
+            },
+            {
+                "q": "Which team has won the most County Championship titles in English domestic cricket?",
+                "o": ["Yorkshire", "Lancashire", "Surrey", "Middlesex"],
+                "a": "Yorkshire"
+            },
+            {
+                "q": "Which team has won the most Royal London One-Day Cup titles in English domestic cricket?",
+                "o": ["Yorkshire", "Lancashire", "Surrey", "Middlesex"],
+                "a": "Yorkshire"
+            },
+            {
+                "q": "Which team has won the most T20 Blast titles in English domestic cricket?",
+                "o": ["Lancashire", "Nottinghamshire", "Warwickshire", "Essex"],
+                "a": "Nottinghamshire"
+            },
+            {
+                "q": "Which team has won the most Caribbean Premier League (CPL) titles in West Indian domestic cricket?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "Trinbago Knight Riders"
+            },
+            {
+                "q": "Which team has won the most Bangladesh Premier League (BPL) titles in Bangladeshi domestic cricket?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Dhaka Dynamites"
+            },
+            {
+                "q": "Which team has won the most Pakistan Super League (PSL) titles in Pakistani domestic cricket?",
+                "o": ["Islamabad United", "Quetta Gladiators", "Peshawar Zalmi", "Karachi Kings"],
+                "a": "Islamabad United"
+            },
+            {
+                "q": "Which team has won the most Lanka Premier League (LPL) titles in Sri Lankan domestic cricket?",
+                "o": ["Colombo Kings", "Kandy Tuskers", "Galle Gladiators", "Jaffna Kings"],
+                "a": "Jaffna Kings"
+            }
+        ],
+        "famous_rivalries": [
+            {
+                "q": "Which two teams are involved in the Ashes rivalry?",
+                "o": ["England and Australia", "India and Pakistan", "West Indies and Australia", "South Africa and England"],
+                "a": "England and Australia"
+            },
+            {
+                "q": "Which two teams compete in the India-Pakistan cricket rivalry?",
+                "o": ["India and Pakistan", "Australia and New Zealand", "England and Australia", "South Africa and India"],
+                "a": "India and Pakistan"
+            },
+            {
+                "q": "Which teams are known for their intense rivalry in the Cricket World Cup?",
+                "o": ["Australia and England", "India and Pakistan", "West Indies and South Africa", "New Zealand and Sri Lanka"],
+                "a": "India and Pakistan"
+            },
+            {
+                "q": "Which teams are involved in the Trans-Tasman Trophy rivalry?",
+                "o": ["Australia and New Zealand", "England and Australia", "India and Pakistan", "South Africa and New Zealand"],
+                "a": "Australia and New Zealand"
+            },
+            {
+                "q": "Which teams compete in the Border-Gavaskar Trophy rivalry?",
+                "o": ["India and Australia", "England and Australia", "Pakistan and Australia", "South Africa and India"],
+                "a": "India and Australia"
+            },
+            {
+                "q": "Which two teams are known for their fierce rivalry in the Caribbean?",
+                "o": ["West Indies and England", "Australia and West Indies", "Pakistan and Sri Lanka", "India and South Africa"],
+                "a": "West Indies and England"
+            },
+            {
+                "q": "Which teams participate in the Asia Cup rivalry?",
+                "o": ["India, Pakistan, Sri Lanka, Bangladesh, Afghanistan", "England and Australia", "South Africa and India", "New Zealand and West Indies"],
+                "a": "India, Pakistan, Sri Lanka, Bangladesh, Afghanistan"
+            },
+            {
+                "q": "Which teams are involved in the Border-Gavaskar Trophy rivalry?",
+                "o": ["India and Australia", "England and Australia", "Pakistan and Australia", "South Africa and India"],
+                "a": "India and Australia"
+            },
+            {
+                "q": "Which teams compete in the Chappell-Hadlee Trophy rivalry?",
+                "o": ["Australia and New Zealand", "England and Australia", "India and Pakistan", "South Africa and New Zealand"],
+                "a": "Australia and New Zealand"
+            },
+            {
+                "q": "Which teams are known for their rivalry in the England-South Africa series?",
+                "o": ["England and South Africa", "Australia and South Africa", "India and South Africa", "West Indies and South Africa"],
+                "a": "England and South Africa"
+            }
+        ]
+        
+    },
+    "records": {
+        "batting_records": [
+            {
+                "q": "Who holds the record for the highest individual score in Test cricket?",
+                "o": ["Brian Lara", "Don Bradman", "Sachin Tendulkar", "Virender Sehwag"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who has the highest career batting average in Test cricket?",
+                "o": ["Don Bradman", "Sachin Tendulkar", "Virat Kohli", "Steve Smith"],
+                "a": "Don Bradman"
+            },
+            {
+                "q": "Who scored the fastest century in Test cricket?",
+                "o": ["Brendon McCullum", "Virender Sehwag", "Chris Gayle", "David Warner"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in One Day International cricket?",
+                "o": ["Rohit Sharma", "Martin Guptill", "Sachin Tendulkar", "Virender Sehwag"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who has scored the most runs in a single Cricket World Cup tournament?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Martin Guptill", "Kumar Sangakkara"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who scored the fastest century in One Day International cricket?",
+                "o": ["AB de Villiers", "Corey Anderson", "Shahid Afridi", "Sanath Jayasuriya"],
+                "a": "AB de Villiers"
+            },
+            {
+                "q": "Who holds the record for the fastest double century in Test cricket?",
+                "o": ["Nathan Astle", "Chris Gayle", "Virender Sehwag", "Brendon McCullum"],
+                "a": "Nathan Astle"
+            },
+            {
+                "q": "Who holds the record for the most centuries in Test cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Jacques Kallis", "Virat Kohli"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the fastest player to reach 10,000 runs in One Day International cricket?",
+                "o": ["Virat Kohli", "Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara"],
+                "a": "Virat Kohli"
+            },
+            {
+                "q": "Who holds the record for the most sixes in international cricket?",
+                "o": ["Shahid Afridi", "Chris Gayle", "Brendon McCullum", "Rohit Sharma"],
+                "a": "Shahid Afridi"
+            },
+            {
+                "q": "Who holds the record for the most runs in T20 International cricket?",
+                "o": ["Virat Kohli", "Rohit Sharma", "Martin Guptill", "Chris Gayle"],
+                "a": "Martin Guptill"
+            },
+            {
+                "q": "Who has the highest individual score in the Indian Premier League (IPL)?",
+                "o": ["Chris Gayle", "AB de Villiers", "David Warner", "KL Rahul"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who is the leading run-scorer in the history of the Indian Premier League (IPL)?",
+                "o": ["Virat Kohli", "Suresh Raina", "Rohit Sharma", "David Warner"],
+                "a": "Virat Kohli"
+            },
+            {
+                "q": "Who has scored the most centuries in the Indian Premier League (IPL)?",
+                "o": ["Virat Kohli", "Chris Gayle", "Rohit Sharma", "David Warner"],
+                "a": "Virat Kohli"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket?",
+                "o": ["Aaron Finch", "Brendon McCullum", "Chris Gayle", "Rohit Sharma"],
+                "a": "Aaron Finch"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a captain?",
+                "o": ["Rohit Sharma", "Sachin Tendulkar", "Virender Sehwag", "Chris Gayle"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who holds the record for the fastest century in One Day International cricket by a captain?",
+                "o": ["AB de Villiers", "Shahid Afridi", "Rohit Sharma", "Virender Sehwag"],
+                "a": "AB de Villiers"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 cricket?",
+                "o": ["Chris Gayle", "Brendon McCullum", "Aaron Finch", "Rohit Sharma"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in Test cricket in the fourth innings of a match?",
+                "o": ["Brian Lara", "Don Bradman", "Viv Richards", "Sunil Gavaskar"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by an Indian cricketer?",
+                "o": ["Sachin Tendulkar", "Rohit Sharma", "Virender Sehwag", "Shikhar Dhawan"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by an Indian cricketer?",
+                "o": ["Rohit Sharma", "KL Rahul", "Virat Kohli", "Yuvraj Singh"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Pakistani cricketer?",
+                "o": ["Saeed Anwar", "Fakhar Zaman", "Imam-ul-Haq", "Inzamam-ul-Haq"],
+                "a": "Fakhar Zaman"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Pakistani cricketer?",
+                "o": ["Babar Azam", "Umar Akmal", "Fakhar Zaman", "Ahmed Shehzad"],
+                "a": "Fakhar Zaman"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by an Australian cricketer?",
+                "o": ["David Warner", "Matthew Hayden", "Shane Watson", "Aaron Finch"],
+                "a": "David Warner"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by an Australian cricketer?",
+                "o": ["David Warner", "Glenn Maxwell", "Aaron Finch", "Shane Watson"],
+                "a": "Aaron Finch"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Sri Lankan cricketer?",
+                "o": ["Sanath Jayasuriya", "Tillakaratne Dilshan", "Upul Tharanga", "Kumar Sangakkara"],
+                "a": "Upul Tharanga"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Sri Lankan cricketer?",
+                "o": ["Mahela Jayawardene", "Tillakaratne Dilshan", "Kumar Sangakkara", "Dinesh Chandimal"],
+                "a": "Tillakaratne Dilshan"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a South African cricketer?",
+                "o": ["AB de Villiers", "Quinton de Kock", "Hashim Amla", "Faf du Plessis"],
+                "a": "Quinton de Kock"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a South African cricketer?",
+                "o": ["Quinton de Kock", "AB de Villiers", "Hashim Amla", "Faf du Plessis"],
+                "a": "Faf du Plessis"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a West Indian cricketer?",
+                "o": ["Chris Gayle", "Brian Lara", "Shai Hope", "Viv Richards"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a West Indian cricketer?",
+                "o": ["Chris Gayle", "Evin Lewis", "Shai Hope", "Marlon Samuels"],
+                "a": "Evin Lewis"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by an English cricketer?",
+                "o": ["Alex Hales", "Jason Roy", "Jonny Bairstow", "Jos Buttler"],
+                "a": "Jason Roy"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by an English cricketer?",
+                "o": ["Alex Hales", "Jason Roy", "Jos Buttler", "Jonny Bairstow"],
+                "a": "Alex Hales"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a New Zealand cricketer?",
+                "o": ["Martin Guptill", "Brendon McCullum", "Kane Williamson", "Ross Taylor"],
+                "a": "Martin Guptill"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a New Zealand cricketer?",
+                "o": ["Colin Munro", "Martin Guptill", "Brendon McCullum", "Kane Williamson"],
+                "a": "Colin Munro"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by an Afghan cricketer?",
+                "o": ["Mohammad Shahzad", "Rahmat Shah", "Hashmatullah Shahidi", "Hazratullah Zazai"],
+                "a": "Hazratullah Zazai"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by an Afghan cricketer?",
+                "o": ["Hazratullah Zazai", "Mohammad Shahzad", "Rashid Khan", "Asghar Afghan"],
+                "a": "Hazratullah Zazai"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by an Irish cricketer?",
+                "o": ["Kevin O'Brien", "William Porterfield", "Paul Stirling", "Andrew Balbirnie"],
+                "a": "Paul Stirling"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by an Irish cricketer?",
+                "o": ["Paul Stirling", "Kevin O'Brien", "Andy Balbirnie", "William Porterfield"],
+                "a": "Paul Stirling"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Zimbabwean cricketer?",
+                "o": ["Brendan Taylor", "Craig Ervine", "Hamilton Masakadza", "Sikandar Raza"],
+                "a": "Craig Ervine"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Zimbabwean cricketer?",
+                "o": ["Brendan Taylor", "Hamilton Masakadza", "Elton Chigumbura", "Sikandar Raza"],
+                "a": "Brendan Taylor"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Bangladeshi cricketer?",
+                "o": ["Tamim Iqbal", "Shakib Al Hasan", "Mushfiqur Rahim", "Mohammad Ashraful"],
+                "a": "Tamim Iqbal"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Bangladeshi cricketer?",
+                "o": ["Tamim Iqbal", "Mushfiqur Rahim", "Shakib Al Hasan", "Mahmudullah"],
+                "a": "Tamim Iqbal"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Scottish cricketer?",
+                "o": ["Calum MacLeod", "Kyle Coetzer", "Matthew Cross", "Preston Mommsen"],
+                "a": "Calum MacLeod"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Scottish cricketer?",
+                "o": ["Richie Berrington", "Calum MacLeod", "Kyle Coetzer", "George Munsey"],
+                "a": "George Munsey"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Dutch cricketer?",
+                "o": ["Ryan ten Doeschate", "Stephan Myburgh", "Ben Cooper", "Max O'Dowd"],
+                "a": "Ben Cooper"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Dutch cricketer?",
+                "o": ["Max O'Dowd", "Ryan ten Doeschate", "Stephan Myburgh", "Ben Cooper"],
+                "a": "Max O'Dowd"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Canadian cricketer?",
+                "o": ["Nitish Kumar", "Ruvindu Gunasekera", "Jimmy Hansra", "Navneet Dhaliwal"],
+                "a": "Jimmy Hansra"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Canadian cricketer?",
+                "o": ["Nitish Kumar", "Ruvindu Gunasekera", "Jeremy Gordon", "Srimantha Wijeratne"],
+                "a": "Ruvindu Gunasekera"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a Nepalese cricketer?",
+                "o": ["Paras Khadka", "Sharad Vesawkar", "Gyanendra Malla", "Binod Bhandari"],
+                "a": "Paras Khadka"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a Nepalese cricketer?",
+                "o": ["Paras Khadka", "Sharad Vesawkar", "Sompal Kami", "Gyanendra Malla"],
+                "a": "Paras Khadka"
+            },
+            {
+                "q": "Who has the highest individual score in One Day International cricket by a UAE cricketer?",
+                "o": ["Shaiman Anwar", "Khurram Khan", "Amjad Ali", "Rohan Mustafa"],
+                "a": "Shaiman Anwar"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in T20 International cricket by a UAE cricketer?",
+                "o": ["Rohan Mustafa", "Shaiman Anwar", "Khurram Khan", "Amjad Javed"],
+                "a": "Rohan Mustafa"
+            }
+        ],
+        "bowling_records": [
+            {
+                "q": "Who holds the record for the most wickets in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Anil Kumble", "James Anderson"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who was the first bowler to take 10 wickets in a single Test innings?",
+                "o": ["Jim Laker", "Anil Kumble", "Shane Warne", "Muttiah Muralitharan"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 300 Test wickets?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Dale Steyn", "Richard Hadlee"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 1000 wickets in international cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Anil Kumble", "James Anderson"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in Test cricket?",
+                "o": ["Jim Laker", "Anil Kumble", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in One Day International cricket?",
+                "o": ["Chaminda Vaas", "Muttiah Muralitharan", "Glenn McGrath", "Shahid Afridi"],
+                "a": "Chaminda Vaas"
+            },
+            {
+                "q": "Who has the best bowling economy rate in T20 International cricket?",
+                "o": ["Sunil Narine", "Rashid Khan", "Lasith Malinga", "Jasprit Bumrah"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who holds the record for the most five-wicket hauls in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Anil Kumble", "James Anderson"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the fastest bowler to take 100 wickets in One Day International cricket?",
+                "o": ["Saqlain Mushtaq", "Rashid Khan", "Mitchell Starc", "Waqar Younis"],
+                "a": "Saqlain Mushtaq"
+            },
+            {
+                "q": "Who has the best bowling figures in a T20 International match?",
+                "o": ["Ajantha Mendis", "Yuzvendra Chahal", "Rashid Khan", "Lasith Malinga"],
+                "a": "Ajantha Mendis"
+            },
+            {
+                "q": "Who is the only bowler to take two hat-tricks in One Day International cricket?",
+                "o": ["Wasim Akram", "Lasith Malinga", "Saqlain Mushtaq", "Chaminda Vaas"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Who holds the record for the most wickets in a single Cricket World Cup edition?",
+                "o": ["Mitchell Starc", "Glenn McGrath", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 250 wickets in One Day International cricket?",
+                "o": ["Mitchell Starc", "Saqlain Mushtaq", "Brett Lee", "Waqar Younis"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Who has the best bowling figures in an innings in IPL history?",
+                "o": ["Alzarri Joseph", "Anil Kumble", "Lasith Malinga", "Sohail Tanvir"],
+                "a": "Alzarri Joseph"
+            },
+            {
+                "q": "Who holds the record for the most wickets in IPL history?",
+                "o": ["Lasith Malinga", "Sunil Narine", "Imran Tahir", "Dwayne Bravo"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Who is the youngest bowler to take a five-wicket haul in Test cricket?",
+                "o": ["Waheed Mirza", "Mohammed Amir", "Aaqib Javed", "Mehrab Hossain"],
+                "a": "Mohammed Amir"
+            },
+            {
+                "q": "Who is the oldest bowler to take a five-wicket haul in Test cricket?",
+                "o": ["Fred Titmus", "Sydney Barnes", "James Southerton", "Don Blackie"],
+                "a": "Sydney Barnes"
+            },
+            {
+                "q": "Who was the first bowler to take 500 wickets in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Anil Kumble", "Glenn McGrath"],
+                "a": "Shane Warne"
+            },
+            {
+                "q": "Who is the only bowler to take two hat-tricks in a single Test match?",
+                "o": ["Jimmy Matthews", "Stuart Broad", "Lasith Malinga", "Wasim Akram"],
+                "a": "Jimmy Matthews"
+            },
+            {
+                "q": "Who holds the record for the most wickets in T20 International cricket?",
+                "o": ["Shahid Afridi", "Rashid Khan", "Lasith Malinga", "Imran Tahir"],
+                "a": "Shahid Afridi"
+            },
+            {
+                "q": "Who is the only bowler to take three hat-tricks in international cricket?",
+                "o": ["Lasith Malinga", "Wasim Akram", "Brett Lee", "Chaminda Vaas"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in Test cricket?",
+                "o": ["Sydney Barnes", "Jim Laker", "Glenn McGrath", "Muttiah Muralitharan"],
+                "a": "Sydney Barnes"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in One Day International cricket?",
+                "o": ["Joel Garner", "Shane Bond", "Glenn McGrath", "Wasim Akram"],
+                "a": "Joel Garner"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in T20 International cricket?",
+                "o": ["Rashid Khan", "Imran Tahir", "Shaheen Afridi", "Mohammad Amir"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Brett Lee", "Lasith Malinga", "Ajantha Mendis", "Rashid Khan"],
+                "a": "Brett Lee"
+            },
+            {
+                "q": "Who was the first bowler to take a hat-trick in the Indian Premier League (IPL)?",
+                "o": ["Amit Mishra", "Lakshmipathy Balaji", "Yuvraj Singh", "Lasith Malinga"],
+                "a": "Amit Mishra"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Rashid Khan", "Sunil Narine", "Imran Tahir", "Lasith Malinga"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the youngest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Waqar Younis", "Shaheen Afridi", "Rashid Khan", "Mehrab Hossain"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Narendra Hirwani", "Mohammad Hafeez", "Imran Tahir", "Sunil Narine"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the ICC Cricket World Cup?",
+                "o": ["Chetan Sharma", "Saqlain Mushtaq", "Wasim Akram", "Lasith Malinga"],
+                "a": "Chetan Sharma"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single Cricket World Cup edition?",
+                "o": ["Glenn McGrath", "Chaminda Vaas", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Glenn McGrath"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in an innings in the ICC World T20?",
+                "o": ["Ajantha Mendis", "Yuzvendra Chahal", "Rashid Khan", "Lasith Malinga"],
+                "a": "Ajantha Mendis"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in One Day International cricket?",
+                "o": ["Saqlain Mushtaq", "Rashid Khan", "Mitchell Starc", "Waqar Younis"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in Test cricket?",
+                "o": ["Aaqib Javed", "Waqar Younis", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Aaqib Javed"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in Test cricket?",
+                "o": ["Jim Laker", "Sydney Barnes", "Shane Warne", "Wasim Akram"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Dale Steyn", "Richard Hadlee"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single IPL match?",
+                "o": ["Alzarri Joseph", "Anil Kumble", "Lasith Malinga", "Sohail Tanvir"],
+                "a": "Alzarri Joseph"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in IPL history?",
+                "o": ["Rashid Khan", "Sunil Narine", "Imran Tahir", "Lasith Malinga"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Rashid Khan", "Mujeeb Ur Rahman", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Imran Tahir", "Shoaib Malik", "Shane Watson", "Muttiah Muralitharan"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the Indian Premier League (IPL)?",
+                "o": ["Amit Mishra", "Lakshmipathy Balaji", "Yuvraj Singh", "Lasith Malinga"],
+                "a": "Amit Mishra"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the youngest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Waqar Younis", "Shaheen Afridi", "Rashid Khan", "Mehrab Hossain"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Narendra Hirwani", "Mohammad Hafeez", "Imran Tahir", "Sunil Narine"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the ICC Cricket World Cup?",
+                "o": ["Chetan Sharma", "Saqlain Mushtaq", "Wasim Akram", "Lasith Malinga"],
+                "a": "Chetan Sharma"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single Cricket World Cup edition?",
+                "o": ["Glenn McGrath", "Chaminda Vaas", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Glenn McGrath"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in an innings in the ICC World T20?",
+                "o": ["Ajantha Mendis", "Yuzvendra Chahal", "Rashid Khan", "Lasith Malinga"],
+                "a": "Ajantha Mendis"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in One Day International cricket?",
+                "o": ["Saqlain Mushtaq", "Rashid Khan", "Mitchell Starc", "Waqar Younis"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in Test cricket?",
+                "o": ["Aaqib Javed", "Waqar Younis", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Aaqib Javed"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in Test cricket?",
+                "o": ["Jim Laker", "Sydney Barnes", "Shane Warne", "Wasim Akram"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Dale Steyn", "Richard Hadlee"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single IPL match?",
+                "o": ["Alzarri Joseph", "Anil Kumble", "Lasith Malinga", "Sohail Tanvir"],
+                "a": "Alzarri Joseph"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in IPL history?",
+                "o": ["Rashid Khan", "Sunil Narine", "Imran Tahir", "Lasith Malinga"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Rashid Khan", "Mujeeb Ur Rahman", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Imran Tahir", "Shoaib Malik", "Shane Watson", "Muttiah Muralitharan"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the Indian Premier League (IPL)?",
+                "o": ["Amit Mishra", "Lakshmipathy Balaji", "Yuvraj Singh", "Lasith Malinga"],
+                "a": "Amit Mishra"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the youngest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Waqar Younis", "Shaheen Afridi", "Rashid Khan", "Mehrab Hossain"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Narendra Hirwani", "Mohammad Hafeez", "Imran Tahir", "Sunil Narine"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the ICC Cricket World Cup?",
+                "o": ["Chetan Sharma", "Saqlain Mushtaq", "Wasim Akram", "Lasith Malinga"],
+                "a": "Chetan Sharma"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single Cricket World Cup edition?",
+                "o": ["Glenn McGrath", "Chaminda Vaas", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Glenn McGrath"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in an innings in the ICC World T20?",
+                "o": ["Ajantha Mendis", "Yuzvendra Chahal", "Rashid Khan", "Lasith Malinga"],
+                "a": "Ajantha Mendis"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in One Day International cricket?",
+                "o": ["Saqlain Mushtaq", "Rashid Khan", "Mitchell Starc", "Waqar Younis"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in Test cricket?",
+                "o": ["Aaqib Javed", "Waqar Younis", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Aaqib Javed"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in Test cricket?",
+                "o": ["Jim Laker", "Sydney Barnes", "Shane Warne", "Wasim Akram"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Dale Steyn", "Richard Hadlee"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single IPL match?",
+                "o": ["Alzarri Joseph", "Anil Kumble", "Lasith Malinga", "Sohail Tanvir"],
+                "a": "Alzarri Joseph"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in IPL history?",
+                "o": ["Rashid Khan", "Sunil Narine", "Imran Tahir", "Lasith Malinga"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Rashid Khan", "Mujeeb Ur Rahman", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Imran Tahir", "Shoaib Malik", "Shane Watson", "Muttiah Muralitharan"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the Indian Premier League (IPL)?",
+                "o": ["Amit Mishra", "Lakshmipathy Balaji", "Yuvraj Singh", "Lasith Malinga"],
+                "a": "Amit Mishra"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the youngest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Waqar Younis", "Shaheen Afridi", "Rashid Khan", "Mehrab Hossain"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a five-wicket haul in One Day International cricket?",
+                "o": ["Narendra Hirwani", "Mohammad Hafeez", "Imran Tahir", "Sunil Narine"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the ICC Cricket World Cup?",
+                "o": ["Chetan Sharma", "Saqlain Mushtaq", "Wasim Akram", "Lasith Malinga"],
+                "a": "Chetan Sharma"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single Cricket World Cup edition?",
+                "o": ["Glenn McGrath", "Chaminda Vaas", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Glenn McGrath"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in an innings in the ICC World T20?",
+                "o": ["Ajantha Mendis", "Yuzvendra Chahal", "Rashid Khan", "Lasith Malinga"],
+                "a": "Ajantha Mendis"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in One Day International cricket?",
+                "o": ["Saqlain Mushtaq", "Rashid Khan", "Mitchell Starc", "Waqar Younis"],
+                "a": "Mitchell Starc"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in Test cricket?",
+                "o": ["Aaqib Javed", "Waqar Younis", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Aaqib Javed"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in Test cricket?",
+                "o": ["Jim Laker", "Sydney Barnes", "Shane Warne", "Wasim Akram"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 200 wickets in Test cricket?",
+                "o": ["Muttiah Muralitharan", "Shane Warne", "Dale Steyn", "Richard Hadlee"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who holds the record for the best bowling figures in a single IPL match?",
+                "o": ["Alzarri Joseph", "Anil Kumble", "Lasith Malinga", "Sohail Tanvir"],
+                "a": "Alzarri Joseph"
+            },
+            {
+                "q": "Who holds the record for the best bowling average in IPL history?",
+                "o": ["Rashid Khan", "Sunil Narine", "Imran Tahir", "Lasith Malinga"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the youngest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Rashid Khan", "Mujeeb Ur Rahman", "Shaheen Afridi", "Mohammed Amir"],
+                "a": "Rashid Khan"
+            },
+            {
+                "q": "Who is the oldest bowler to take a hat-trick in T20 International cricket?",
+                "o": ["Imran Tahir", "Shoaib Malik", "Shane Watson", "Muttiah Muralitharan"],
+                "a": "Imran Tahir"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            },
+            {
+                "q": "Who is the first bowler to take a hat-trick in the Indian Premier League (IPL)?",
+                "o": ["Amit Mishra", "Lakshmipathy Balaji", "Yuvraj Singh", "Lasith Malinga"],
+                "a": "Amit Mishra"
+            },
+            {
+                "q": "Who holds the record for the best economy rate in IPL history?",
+                "o": ["Sunil Narine", "Rashid Khan", "Imran Tahir", "Lasith Malinga"],
+                "a": "Sunil Narine"
+            }
+        ],
+        "team_records": [
+            {
+                "q": "Which team holds the record for the highest team total in Test cricket?",
+                "o": ["England", "India", "Australia", "West Indies"],
+                "a": "West Indies"
+            },
+            {
+                "q": "Which team holds the record for the lowest team total in Test cricket?",
+                "o": ["Zimbabwe", "Bangladesh", "New Zealand", "England"],
+                "a": "New Zealand"
+            },
+            {
+                "q": "Which team holds the record for the highest successful run chase in Test cricket?",
+                "o": ["Australia", "West Indies", "India", "South Africa"],
+                "a": "West Indies"
+            },
+            {
+                "q": "Which team holds the record for the highest individual team score in One Day International cricket?",
+                "o": ["England", "India", "Australia", "Sri Lanka"],
+                "a": "England"
+            },
+            {
+                "q": "Which team holds the record for the lowest team total in One Day International cricket?",
+                "o": ["Canada", "Zimbabwe", "Bangladesh", "Sri Lanka"],
+                "a": "Zimbabwe"
+            },
+            {
+                "q": "Which team holds the record for the highest successful run chase in One Day International cricket?",
+                "o": ["Sri Lanka", "India", "Australia", "South Africa"],
+                "a": "India"
+            },
+            {
+                "q": "Which team has won the most Cricket World Cup titles?",
+                "o": ["Australia", "West Indies", "India", "England"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which team has the highest win percentage in Test cricket?",
+                "o": ["Australia", "West Indies", "India", "England"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which team has the highest win percentage in One Day International cricket?",
+                "o": ["Australia", "West Indies", "India", "Pakistan"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which team has the highest win percentage in T20 International cricket?",
+                "o": ["Pakistan", "Sri Lanka", "India", "New Zealand"],
+                "a": "Pakistan"
+            },
+            {
+                "q": "Which team has the longest winning streak in Test cricket?",
+                "o": ["Australia", "West Indies", "India", "England"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which team has the longest winning streak in One Day International cricket?",
+                "o": ["Australia", "West Indies", "India", "Pakistan"],
+                "a": "Australia"
+            },
+            {
+                "q": "Which team has the longest winning streak in T20 International cricket?",
+                "o": ["Pakistan", "Sri Lanka", "India", "Australia"],
+                "a": "Afghanistan"
+            },
+            {
+                "q": "Which team has the highest total runs scored in a single innings in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Mumbai Indians", "Royal Challengers Bangalore", "Kolkata Knight Riders"],
+                "a": "Royal Challengers Bangalore"
+            },
+            {
+                "q": "Which team has the lowest total runs scored in a single innings in the Indian Premier League (IPL)?",
+                "o": ["Kolkata Knight Riders", "Rajasthan Royals", "Delhi Capitals", "Kings XI Punjab"],
+                "a": "Kolkata Knight Riders"
+            },
+            {
+                "q": "Which team has the highest successful run chase in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Punjab Kings", "Rajasthan Royals"],
+                "a": "Punjab Kings"
+            },
+            {
+                "q": "Which team has won the most Indian Premier League (IPL) titles?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Royal Challengers Bangalore"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest win percentage in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the most appearances in the final of the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the most appearances in the playoffs of the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has won the most matches in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest total runs scored in the history of the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest total wickets taken in the history of the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest win margin (by runs) in a single match in the Indian Premier League (IPL)?",
+                "o": ["Royal Challengers Bangalore", "Kolkata Knight Riders", "Delhi Capitals", "Kings XI Punjab"],
+                "a": "Royal Challengers Bangalore"
+            },
+            {
+                "q": "Which team has the highest win margin (by wickets) in a single match in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Kolkata Knight Riders"
+            },
+            {
+                "q": "Which team has scored the most sixes in a single innings in the Indian Premier League (IPL)?",
+                "o": ["Royal Challengers Bangalore", "Kolkata Knight Riders", "Mumbai Indians", "Kings XI Punjab"],
+                "a": "Royal Challengers Bangalore"
+            },
+            {
+                "q": "Which team has taken the most wickets in a single innings in the Indian Premier League (IPL)?",
+                "o": ["Kolkata Knight Riders", "Rajasthan Royals", "Chennai Super Kings", "Mumbai Indians"],
+                "a": "Kolkata Knight Riders"
+            },
+            {
+                "q": "Which team has the highest win percentage in the history of the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the most consecutive wins in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the longest winning streak at home in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the longest winning streak away from home in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the highest win percentage at home in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest win percentage away from home in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has won the most matches by a margin of more than 100 runs in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Royal Challengers Bangalore"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has won the most matches by a margin of more than 8 wickets in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Royal Challengers Bangalore"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest win percentage in night matches in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the highest win percentage in day matches in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the highest win percentage in matches decided by Duckworth-Lewis method in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the highest win percentage in matches decided by Super Over in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest win percentage in matches decided by bowl-out in the Indian Premier League (IPL)?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the highest win percentage in matches decided by toss in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Royal Challengers Bangalore"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team has the highest win percentage in matches decided by batting first in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team has the highest win percentage in matches decided by batting second in the Indian Premier League (IPL)?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Chennai Super Kings"
+            }
+        ]        
+    },
+    "leagues": {
+        "IPL": [
+            {
+                "q": "Which team emerged as the winner in the inaugural season of IPL?",
+                "o": ["Rajasthan Royals", "Chennai Super Kings", "Mumbai Indians", "Deccan Chargers"],
+                "a": "Rajasthan Royals"
+            },
+            {
+                "q": "Who clinched the title in IPL 2009?",
+                "o": ["Deccan Chargers", "Chennai Super Kings", "Rajasthan Royals", "Delhi Daredevils"],
+                "a": "Deccan Chargers"
+            },
+            {
+                "q": "Who secured victory in IPL 2010?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Royal Challengers Bangalore"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team lifted the trophy in IPL 2011?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Royal Challengers Bangalore"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which franchise claimed the championship in IPL 2012?",
+                "o": ["Kolkata Knight Riders", "Chennai Super Kings", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Kolkata Knight Riders"
+            },
+            {
+                "q": "Which team was crowned the winner in IPL 2013?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Kolkata Knight Riders", "Rajasthan Royals"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Who was victorious in IPL 2014?",
+                "o": ["Kolkata Knight Riders", "Chennai Super Kings", "Mumbai Indians", "Kings XI Punjab"],
+                "a": "Kolkata Knight Riders"
+            },
+            {
+                "q": "Which side triumphed in IPL 2015?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Sunrisers Hyderabad", "Kolkata Knight Riders"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team won the IPL title in 2016?",
+                "o": ["Sunrisers Hyderabad", "Mumbai Indians", "Royal Challengers Bangalore", "Gujarat Lions"],
+                "a": "Sunrisers Hyderabad"
+            },
+            {
+                "q": "Who emerged as the winner of IPL 2017?",
+                "o": ["Mumbai Indians", "Rising Pune Supergiant", "Kolkata Knight Riders", "Sunrisers Hyderabad"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which franchise claimed victory in IPL 2018?",
+                "o": ["Chennai Super Kings", "Sunrisers Hyderabad", "Kolkata Knight Riders", "Mumbai Indians"],
+                "a": "Chennai Super Kings"
+            },
+            {
+                "q": "Which team secured the title in IPL 2019?",
+                "o": ["Mumbai Indians", "Chennai Super Kings", "Delhi Capitals", "Kolkata Knight Riders"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Who emerged as the winner of IPL 2020?",
+                "o": ["Mumbai Indians", "Delhi Capitals", "Sunrisers Hyderabad", "Royal Challengers Bangalore"],
+                "a": "Mumbai Indians"
+            },
+            {
+                "q": "Which team clinched the title in IPL 2021?",
+                "o": ["Chennai Super Kings", "Kolkata Knight Riders", "Mumbai Indians", "Rajasthan Royals"],
+                "a": "Chennai Super Kings"
+            }
+        ],
+        "BBL": [
+        {
+            "q": "Which team emerged as the winner in the first season of BBL?",
+            "o": ["Sydney Sixers", "Perth Scorchers", "Melbourne Stars", "Hobart Hurricanes"],
+            "a": "Sydney Sixers"
+        },
+        {
+            "q": "Who clinched the title in BBL 2012?",
+            "o": ["Perth Scorchers", "Melbourne Stars", "Sydney Sixers", "Adelaide Strikers"],
+            "a": "Sydney Sixers"
+        },
+        {
+            "q": "Who secured victory in BBL 2013?",
+            "o": ["Perth Scorchers", "Melbourne Stars", "Sydney Sixers", "Hobart Hurricanes"],
+            "a": "Brisbane Heat"
+        },
+        {
+            "q": "Which team lifted the trophy in BBL 2014?",
+            "o": ["Perth Scorchers", "Melbourne Stars", "Sydney Sixers", "Hobart Hurricanes"],
+            "a": "Perth Scorchers"
+        },
+        {
+            "q": "Which franchise claimed the championship in BBL 2015?",
+            "o": ["Sydney Thunder", "Melbourne Stars", "Brisbane Heat", "Hobart Hurricanes"],
+            "a": "Sydney Thunder"
+        },
+        {
+            "q": "Who was victorious in BBL 2016?",
+            "o": ["Sydney Thunder", "Perth Scorchers", "Brisbane Heat", "Adelaide Strikers"],
+            "a": "Perth Scorchers"
+        },
+        {
+            "q": "Who emerged as the winner of BBL 2017?",
+            "o": ["Adelaide Strikers", "Perth Scorchers", "Sydney Sixers", "Hobart Hurricanes"],
+            "a": "Adelaide Strikers"
+        },
+        {
+            "q": "Which franchise claimed victory in BBL 2018?",
+            "o": ["Melbourne Renegades", "Perth Scorchers", "Sydney Sixers", "Hobart Hurricanes"],
+            "a": "Melbourne Renegades"
+        },
+        {
+            "q": "Which team secured the title in BBL 2019?",
+            "o": ["Sydney Sixers", "Melbourne Stars", "Brisbane Heat", "Hobart Hurricanes"],
+            "a": "Sydney Sixers"
+        },
+        {
+            "q": "Who emerged as the winner of BBL 2020?",
+            "o": ["Sydney Sixers", "Melbourne Stars", "Perth Scorchers", "Sydney Thunder"],
+            "a": "Sydney Sixers"
+        },
+        {
+            "q": "Which team clinched the title in BBL 2021?",
+            "o": ["Sydney Sixers", "Perth Scorchers", "Melbourne Stars", "Brisbane Heat"],
+            "a": "Sydney Sixers"
+        }
+    ],
+        "PSL": [
+            {
+                "q": "Which team emerged as the winner in the first season of PSL?",
+                "o": ["Islamabad United", "Quetta Gladiators", "Peshawar Zalmi", "Karachi Kings"],
+                "a": "Islamabad United"
+            },
+            {
+                "q": "Who clinched the title in PSL 2017?",
+                "o": ["Islamabad United", "Quetta Gladiators", "Peshawar Zalmi", "Lahore Qalandars"],
+                "a": "Peshawar Zalmi"
+            },
+            {
+                "q": "Who secured victory in PSL 2018?",
+                "o": ["Islamabad United", "Quetta Gladiators", "Peshawar Zalmi", "Karachi Kings"],
+                "a": "Islamabad United"
+            },
+            {
+                "q": "Which team lifted the trophy in PSL 2019?",
+                "o": ["Islamabad United", "Quetta Gladiators", "Peshawar Zalmi", "Lahore Qalandars"],
+                "a": "Quetta Gladiators"
+            },
+            {
+                "q": "Which franchise claimed the championship in PSL 2020?",
+                "o": ["Karachi Kings", "Lahore Qalandars", "Multan Sultans", "Islamabad United"],
+                "a": "Karachi Kings"
+            },
+            {
+                "q": "Who was victorious in PSL 2021?",
+                "o": ["Multan Sultans", "Lahore Qalandars", "Peshawar Zalmi", "Quetta Gladiators"],
+                "a": "Multan Sultans"
+            }
+        ],
+        "BPL": [
+            {
+                "q": "Which team emerged as the winner in the first season of BPL?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Dhaka Dynamites"
+            },
+            {
+                "q": "Who clinched the title in BPL 2013?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Dhaka Dynamites"
+            },
+            {
+                "q": "Who secured victory in BPL 2015?",
+                "o": ["Rangpur Riders", "Dhaka Dynamites", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Comilla Victorians"
+            },
+            {
+                "q": "Which team lifted the trophy in BPL 2016?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Dhaka Dynamites"
+            },
+            {
+                "q": "Which franchise claimed the championship in BPL 2017?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Rangpur Riders"
+            },
+            {
+                "q": "Who was victorious in BPL 2019?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chittagong Vikings"],
+                "a": "Comilla Victorians"
+            },
+            {
+                "q": "Who emerged as the winner of BPL 2020?",
+                "o": ["Dhaka Dynamites", "Rajshahi Royals", "Comilla Victorians", "Chattogram Challengers"],
+                "a": "Rajshahi Royals"
+            },
+            {
+                "q": "Which team clinched the title in BPL 2021?",
+                "o": ["Dhaka Dynamites", "Rangpur Riders", "Comilla Victorians", "Chattogram Challengers"],
+                "a": "Rajshahi Royals"
+            }
+        ],
+        "CPL": [
+            {
+                "q": "Which team emerged as the winner in the first season of CPL?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "Trinbago Knight Riders"
+            },
+            {
+                "q": "Who clinched the title in CPL 2014?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "St Kitts and Nevis Patriots"],
+                "a": "Barbados Tridents"
+            },
+            {
+                "q": "Who secured victory in CPL 2015?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "St Kitts and Nevis Patriots"],
+                "a": "Trinbago Knight Riders"
+            },
+            {
+                "q": "Which team lifted the trophy in CPL 2016?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "Jamaica Tallawahs"
+            },
+            {
+                "q": "Which franchise claimed the championship in CPL 2017?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "St Lucia Stars"],
+                "a": "Trinbago Knight Riders"
+            },
+            {
+                "q": "Who was victorious in CPL 2018?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "Trinbago Knight Riders"
+            },
+            {
+                "q": "Who emerged as the winner of CPL 2019?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "Barbados Tridents"
+            },
+            {
+                "q": "Which team clinched the title in CPL 2020?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "Trinbago Knight Riders"
+            },
+            {
+                "q": "Who emerged as the winner of CPL 2021?",
+                "o": ["Trinbago Knight Riders", "Barbados Tridents", "Guyana Amazon Warriors", "Jamaica Tallawahs"],
+                "a": "St Kitts and Nevis Patriots"
+            }
+        ],
+        "SA20": [
+            {
+                "q": "Who emerged as the winner of SA20 2024?",
+                "o": ["Sunrisers Eastern Cape", "Durban Super Giants", "Paarl Royals", "Joburg Super Kings"],
+                "a": "Sunrisers Eastern Cape"
+            }
+        ],
+        "LPL": [
+            {
+                "q": "Which team emerged as the winner in the inaugural season of LPL?",
+                "o": ["Colombo Strikers", "B-Love Kandy", "Galle Gladiators", "Jaffna Kings"],
+                "a": "Jaffna Kings"
+            },
+            {
+                "q": "Who clinched the title in LPL 2020?",
+                "o": ["Colombo Strikers", "B-Love Kandy", "Galle Gladiators", "Jaffna Kings"],
+                "a": "Jaffna Kings"
+            },
+            {
+                "q": "Who secured victory in LPL 2021?",
+                "o": ["Colombo Strikers", "Jaffna Kings", "Galle Gladiators", "Dambulla Aura"],
+                "a": "Jaffna Kings"
+            },
+            {
+                "q": "Who secured victory in LPL 2022?",
+                "o": ["Colombo Strikers", "Jaffna Kings", "Galle Gladiators", "Dambulla Aura"],
+                "a": "Jaffna Kings"
+            },
+            {
+                "q": "Who secured victory in LPL 2023?",
+                "o": ["Colombo Strikers", "Jaffna Kings", "B-Love Kandy", "Dambulla Aura"],
+                "a": "B-Love Kandy"
+            }
+        ]
+    },
+    "others": {
+        "trivia": [
+            {
+                "q": "Who holds the record for the fastest century in Test cricket?",
+                "o": ["Brendon McCullum", "Viv Richards", "Chris Gayle", "David Warner"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who was the first cricketer to score a double century in One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Martin Guptill", "Virender Sehwag", "Rohit Sharma"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the highest run-scorer in the history of Test cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Kumar Sangakkara"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the highest wicket-taker in the history of Test cricket?",
+                "o": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the highest run-scorer in the history of One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the highest wicket-taker in the history of One Day International cricket?",
+                "o": ["Muttiah Muralitharan", "Wasim Akram", "Glenn McGrath", "Shaun Pollock"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who has won the most ICC Cricket World Cup titles as a captain?",
+                "o": ["Ricky Ponting", "Clive Lloyd", "Kapil Dev", "MS Dhoni"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who holds the record for the highest individual score in Test cricket?",
+                "o": ["Brian Lara", "Matthew Hayden", "Kumar Sangakkara", "Virender Sehwag"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who is the only player to have scored a triple century and taken 10 wickets in a Test match?",
+                "o": ["Garry Sobers", "Kapil Dev", "Jacques Kallis", "Shakib Al Hasan"],
+                "a": "Garry Sobers"
+            },
+            {
+                "q": "Who is the only player to have scored a century in all three formats of international cricket?",
+                "o": ["Chris Gayle", "Rohit Sharma", "Virat Kohli", "Brendon McCullum"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who is the only bowler to have taken all ten wickets in a Test innings?",
+                "o": ["Anil Kumble", "Muttiah Muralitharan", "Jim Laker", "Shane Warne"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who has the most dismissals as a wicketkeeper in Test cricket?",
+                "o": ["Adam Gilchrist", "Mark Boucher", "MS Dhoni", "Kumar Sangakkara"],
+                "a": "Mark Boucher"
+            },
+            {
+                "q": "Who has the most dismissals as a wicketkeeper in One Day International cricket?",
+                "o": ["Adam Gilchrist", "Kumar Sangakkara", "MS Dhoni", "Mark Boucher"],
+                "a": "Kumar Sangakkara"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 100 Test wickets?",
+                "o": ["Dennis Lillee", "Dale Steyn", "Malcolm Marshall", "Shane Warne"],
+                "a": "Dale Steyn"
+            },
+            {
+                "q": "Who was the first cricketer to score a double century in One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Martin Guptill", "Virender Sehwag", "Rohit Sharma"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the youngest player to score a century in Test cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kapil Dev", "Younis Khan"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the youngest player to make his debut in Test cricket?",
+                "o": ["Sachin Tendulkar", "Wasim Akram", "Mushtaq Mohammad", "Mohammad Amir"],
+                "a": "Mushtaq Mohammad"
+            },
+            {
+                "q": "Who is the oldest player to make his debut in Test cricket?",
+                "o": ["Wilfred Rhodes", "Bert Ironmonger", "WG Grace", "Don Bradman"],
+                "a": "Bert Ironmonger"
+            },
+            {
+                "q": "Who is the oldest player to score a century in Test cricket?",
+                "o": ["Jack Hobbs", "Wilfred Rhodes", "Bert Ironmonger", "Don Bradman"],
+                "a": "Wilfred Rhodes"
+            },
+            {
+                "q": "Who is the only bowler to have taken a hat-trick in the final of the ICC Cricket World Cup?",
+                "o": ["Wasim Akram", "Glenn McGrath", "Lasith Malinga", "Trent Boult"],
+                "a": "Trent Boult"
+            },
+            {
+                "q": "Who was the first cricketer to hit six sixes in an over in a One Day International match?",
+                "o": ["Herschelle Gibbs", "Yuvraj Singh", "Shahid Afridi", "AB de Villiers"],
+                "a": "Herschelle Gibbs"
+            },
+            {
+                "q": "Who was the first cricketer to take a hat-trick in a T20 International match?",
+                "o": ["Brett Lee", "Lasith Malinga", "Yuvraj Singh", "Ajantha Mendis"],
+                "a": "Brett Lee"
+            },
+            {
+                "q": "Who holds the record for the most runs scored in a single over of a Test match?",
+                "o": ["Brian Lara", "Herschelle Gibbs", "George Bailey", "Kapil Dev"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who is the only cricketer to have scored four consecutive centuries in Test cricket?",
+                "o": ["Don Bradman", "Steve Smith", "Virat Kohli", "Ricky Ponting"],
+                "a": "Don Bradman"
+            },
+            {
+                "q": "Who is the only player to have scored a century and taken a five-wicket haul in a World Cup final?",
+                "o": ["Kapil Dev", "Ian Botham", "Viv Richards", "Aravinda de Silva"],
+                "a": "Aravinda de Silva"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in the Indian Premier League (IPL)?",
+                "o": ["Brendon McCullum", "Chris Gayle", "AB de Villiers", "Rohit Sharma"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who is the only cricketer to have won the ICC Player of the Year award three times?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who was the first cricketer to take 800 wickets in Test cricket?",
+                "o": ["Shane Warne", "Anil Kumble", "Muttiah Muralitharan", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the only bowler to have taken a hat-trick in all three formats of international cricket?",
+                "o": ["Lasith Malinga", "Wasim Akram", "Brett Lee", "Rashid Khan"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Who was the first cricketer to score 10,000 runs in One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the only cricketer to have scored more than 15,000 runs in Test cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the fastest cricketer to score 10,000 runs in Test cricket by innings?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Brian Lara"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the only cricketer to have scored four consecutive centuries in a single World Cup edition?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Kumar Sangakkara"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in the final of the ICC Cricket World Cup twice?",
+                "o": ["Clive Lloyd", "Sachin Tendulkar", "Ricky Ponting", "Viv Richards"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 50 Test wickets?",
+                "o": ["Sydney Barnes", "Dale Steyn", "Shane Warne", "Muttiah Muralitharan"],
+                "a": "Sydney Barnes"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in both innings of a Test match three times?",
+                "o": ["Don Bradman", "Sunil Gavaskar", "Ricky Ponting", "Kumar Sangakkara"],
+                "a": "Don Bradman"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in T20 International cricket?",
+                "o": ["Chris Gayle", "Brendon McCullum", "Yuvraj Singh", "Aaron Finch"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who was the first cricketer to take 500 wickets in One Day International cricket?",
+                "o": ["Wasim Akram", "Muttiah Muralitharan", "Shaun Pollock", "Glenn McGrath"],
+                "a": "Wasim Akram"
+            },
+            {
+                "q": "Who was the first cricketer to score 10,000 runs in Test cricket?",
+                "o": ["Sachin Tendulkar", "Sunil Gavaskar", "Brian Lara", "Allan Border"],
+                "a": "Sunil Gavaskar"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in World Cup cricket?",
+                "o": ["Clive Lloyd", "Dennis Amiss", "Viv Richards", "Sunil Gavaskar"],
+                "a": "Dennis Amiss"
+            },
+            {
+                "q": "Who is the only cricketer to have taken 10 wickets in an innings of a Test match?",
+                "o": ["Anil Kumble", "Jim Laker", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in T20 International cricket?",
+                "o": ["Chris Gayle", "Brendon McCullum", "Rohit Sharma", "Virat Kohli"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the only bowler to have taken 800 wickets in Test cricket?",
+                "o": ["Shane Warne", "Anil Kumble", "Muttiah Muralitharan", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in the final of the ICC Cricket World Cup on debut?",
+                "o": ["Ricky Ponting", "Adam Gilchrist", "Aravinda de Silva", "Kapil Dev"],
+                "a": "Adam Gilchrist"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in the Indian Premier League (IPL)?",
+                "o": ["Brendon McCullum", "Chris Gayle", "AB de Villiers", "Rohit Sharma"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who was the first cricketer to take a hat-trick in a T20 International match?",
+                "o": ["Brett Lee", "Lasith Malinga", "Yuvraj Singh", "Ajantha Mendis"],
+                "a": "Brett Lee"
+            },
+            {
+                "q": "Who holds the record for the most runs scored in a single over of a Test match?",
+                "o": ["Brian Lara", "Herschelle Gibbs", "George Bailey", "Kapil Dev"],
+                "a": "Brian Lara"
+            },
+            {
+                "q": "Who is the only cricketer to have scored four consecutive centuries in Test cricket?",
+                "o": ["Don Bradman", "Steve Smith", "Virat Kohli", "Ricky Ponting"],
+                "a": "Don Bradman"
+            },
+            {
+                "q": "Who is the only player to have scored a century and taken a five-wicket haul in a World Cup final?",
+                "o": ["Kapil Dev", "Ian Botham", "Viv Richards", "Aravinda de Silva"],
+                "a": "Aravinda de Silva"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in the Indian Premier League (IPL)?",
+                "o": ["Brendon McCullum", "Chris Gayle", "AB de Villiers", "Rohit Sharma"],
+                "a": "Brendon McCullum"
+            },
+            {
+                "q": "Who is the only cricketer to have won the ICC Player of the Year award three times?",
+                "o": ["Ricky Ponting", "Sachin Tendulkar", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who was the first cricketer to take 800 wickets in Test cricket?",
+                "o": ["Shane Warne", "Anil Kumble", "Muttiah Muralitharan", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the only bowler to have taken a hat-trick in all three formats of international cricket?",
+                "o": ["Lasith Malinga", "Wasim Akram", "Brett Lee", "Rashid Khan"],
+                "a": "Lasith Malinga"
+            },
+            {
+                "q": "Who was the first cricketer to score 10,000 runs in One Day International cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the only cricketer to have scored more than 15,000 runs in Test cricket?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Jacques Kallis"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the fastest cricketer to score 10,000 runs in Test cricket by innings?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Brian Lara"],
+                "a": "Sachin Tendulkar"
+            },
+            {
+                "q": "Who is the only cricketer to have scored four consecutive centuries in a single World Cup edition?",
+                "o": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Virat Kohli"],
+                "a": "Kumar Sangakkara"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in the final of the ICC Cricket World Cup twice?",
+                "o": ["Clive Lloyd", "Sachin Tendulkar", "Ricky Ponting", "Viv Richards"],
+                "a": "Ricky Ponting"
+            },
+            {
+                "q": "Who is the fastest bowler to reach 50 Test wickets?",
+                "o": ["Sydney Barnes", "Dale Steyn", "Shane Warne", "Muttiah Muralitharan"],
+                "a": "Sydney Barnes"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in both innings of a Test match three times?",
+                "o": ["Don Bradman", "Sunil Gavaskar", "Ricky Ponting", "Kumar Sangakkara"],
+                "a": "Don Bradman"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in T20 International cricket?",
+                "o": ["Chris Gayle", "Brendon McCullum", "Yuvraj Singh", "Aaron Finch"],
+                "a": "Chris Gayle"
+            },
+            {
+                "q": "Who was the first cricketer to take 500 wickets in One Day International cricket?",
+                "o": ["Wasim Akram", "Muttiah Muralitharan", "Shaun Pollock", "Glenn McGrath"],
+                "a": "Wasim Akram"
+            },
+            {
+                "q": "Who was the first cricketer to score 10,000 runs in Test cricket?",
+                "o": ["Sachin Tendulkar", "Sunil Gavaskar", "Brian Lara", "Allan Border"],
+                "a": "Sunil Gavaskar"
+            },
+            {
+                "q": "Who was the first cricketer to score a century in World Cup cricket?",
+                "o": ["Clive Lloyd", "Dennis Amiss", "Viv Richards", "Sunil Gavaskar"],
+                "a": "Dennis Amiss"
+            },
+            {
+                "q": "Who is the only cricketer to have taken 10 wickets in an innings of a Test match?",
+                "o": ["Anil Kumble", "Jim Laker", "Muttiah Muralitharan", "Shane Warne"],
+                "a": "Jim Laker"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in T20 International cricket?",
+                "o": ["Chris Gayle", "Brendon McCullum", "Rohit Sharma", "Virat Kohli"],
+                "a": "Rohit Sharma"
+            },
+            {
+                "q": "Who is the only bowler to have taken 800 wickets in Test cricket?",
+                "o": ["Shane Warne", "Anil Kumble", "Muttiah Muralitharan", "Glenn McGrath"],
+                "a": "Muttiah Muralitharan"
+            },
+            {
+                "q": "Who is the only cricketer to have scored a century in the final of the ICC Cricket World Cup on debut?",
+                "o": ["Ricky Ponting", "Adam Gilchrist", "Aravinda de Silva", "Kapil Dev"],
+                "a": "Adam Gilchrist"
+            }
+        ],
+        "umpires": [
+            {
+                "q": "Who was the first umpire to officiate in 300 One Day International matches?",
+                "o": ["Aleem Dar", "Steve Bucknor", "Billy Bowden", "David Shepherd"],
+                "a": "Steve Bucknor"
+            },
+            {
+                "q": "Who holds the record for officiating in the most Test matches as an umpire?",
+                "o": ["Simon Taufel", "David Shepherd", "Aleem Dar", "Dickie Bird"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Which umpire was famously known for his unique signaling style, including the 'crooked finger' for giving out decisions?",
+                "o": ["Billy Bowden", "Steve Bucknor", "Simon Taufel", "Aleem Dar"],
+                "a": "Billy Bowden"
+            },
+            {
+                "q": "Who became the first umpire to stand in all 10 full-member countries of the International Cricket Council?",
+                "o": ["Simon Taufel", "Steve Bucknor", "Aleem Dar", "Dickie Bird"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who was the first umpire to officiate in 200 Twenty20 International matches?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who was the youngest umpire to stand in a Test match?",
+                "o": ["Aleem Dar", "Dickie Bird", "Nigel Llong", "David Shepherd"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the only umpire to have won the ICC Umpire of the Year award five times?",
+                "o": ["Simon Taufel", "Aleem Dar", "Billy Bowden", "Dickie Bird"],
+                "a": "Simon Taufel"
+            },
+            {
+                "q": "Who was the first umpire to stand in 100 Test matches?",
+                "o": ["Steve Bucknor", "Aleem Dar", "Billy Bowden", "Simon Taufel"],
+                "a": "Steve Bucknor"
+            },
+            {
+                "q": "Who was the first English umpire to stand in a World Cup final?",
+                "o": ["David Shepherd", "Dickie Bird", "Nigel Llong", "Billy Bowden"],
+                "a": "Dickie Bird"
+            },
+            {
+                "q": "Who was the first umpire to officiate in a Day/Night Test match?",
+                "o": ["Simon Taufel", "Aleem Dar", "Steve Bucknor", "Billy Bowden"],
+                "a": "Simon Taufel"
+            },
+            {
+                "q": "Who holds the record for officiating in the most matches as a TV umpire?",
+                "o": ["Nigel Llong", "Aleem Dar", "Bruce Oxenford", "Steve Davis"],
+                "a": "Nigel Llong"
+            },
+            {
+                "q": "Who is the only umpire to have stood in 300 One Day International matches?",
+                "o": ["Steve Bucknor", "Billy Bowden", "Simon Taufel", "Aleem Dar"],
+                "a": "Steve Bucknor"
+            },
+            {
+                "q": "Who is the first umpire to stand in 200 One Day International matches?",
+                "o": ["Aleem Dar", "Steve Bucknor", "Billy Bowden", "Simon Taufel"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who was the first neutral umpire from outside the traditional Test-playing countries?",
+                "o": ["Ian Gould", "Karl Liebenberg", "Billy Bowden", "Aleem Dar"],
+                "a": "Karl Liebenberg"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 400 international matches across formats?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Steve Bucknor"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 100 T20 International matches?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the only umpire to have officiated in all 12 ICC World Twenty20 tournaments?",
+                "o": ["Simon Taufel", "Aleem Dar", "Billy Bowden", "Steve Bucknor"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who was the first Indian umpire to stand in an ICC Cricket World Cup final?",
+                "o": ["S. Venkataraghavan", "Sunil Gavaskar", "Syed Mushtaq Ali", "S. Ravi"],
+                "a": "S. Ravi"
+            },
+            {
+                "q": "Who was the first umpire to officiate in 50 Test matches as a member of the Elite Panel of ICC Umpires?",
+                "o": ["Simon Taufel", "Aleem Dar", "Billy Bowden", "Steve Bucknor"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire from South Africa to stand in an ICC Cricket World Cup final?",
+                "o": ["Aleem Dar", "Steve Bucknor", "David Shepherd", "Rudi Koertzen"],
+                "a": "Rudi Koertzen"
+            },
+            {
+                "q": "Who was the first umpire to officiate in 200 T20 matches?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the only umpire to have officiated in all four editions of the ICC World Twenty20?",
+                "o": ["Simon Taufel", "Aleem Dar", "Billy Bowden", "Steve Bucknor"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire from the West Indies to stand in an ICC Cricket World Cup final?",
+                "o": ["Aleem Dar", "Steve Bucknor", "David Shepherd", "Joel Wilson"],
+                "a": "Joel Wilson"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 100 ODIs as an on-field umpire?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 50 T20 International matches as an on-field umpire?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the only umpire to have officiated in all 12 editions of the ICC Cricket World Cup?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Steve Bucknor"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 100 T20 matches as an on-field umpire?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 200 ODIs as an on-field umpire?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            },
+            {
+                "q": "Who is the first umpire to officiate in 100 ODIs as a TV umpire?",
+                "o": ["Aleem Dar", "Simon Taufel", "Billy Bowden", "Nigel Llong"],
+                "a": "Aleem Dar"
+            }
+        ],
+        "equipment": [
+            {
+                "q": "What is the standard weight of a cricket ball used in Test matches?",
+                "o": ["155 to 163 grams", "140 to 150 grams", "110 to 120 grams", "170 to 180 grams"],
+                "a": "155 to 163 grams"
+            },
+            {
+                "q": "Which material is commonly used to make the core of a cricket ball?",
+                "o": ["Cork", "Rubber", "Plastic", "Wood"],
+                "a": "Cork"
+            },
+            {
+                "q": "What is the circumference of a standard cricket ball?",
+                "o": ["8.81 to 9 inches", "7 to 7.5 inches", "10 to 10.5 inches", "6 to 6.5 inches"],
+                "a": "8.81 to 9 inches"
+            },
+            {
+                "q": "What material are cricket stumps typically made of?",
+                "o": ["Wood", "Metal", "Plastic", "Fiberglass"],
+                "a": "Wood"
+            },
+            {
+                "q": "What is the length of a standard cricket bat?",
+                "o": ["34 to 38 inches", "30 to 32 inches", "40 to 42 inches", "28 to 30 inches"],
+                "a": "34 to 38 inches"
+            },
+            {
+                "q": "Which part of the cricket bat is traditionally made from willow?",
+                "o": ["Blade", "Handle", "Grip", "Toe"],
+                "a": "Blade"
+            },
+            {
+                "q": "What material are cricket gloves typically made of?",
+                "o": ["Leather", "Rubber", "Synthetic", "Cotton"],
+                "a": "Leather"
+            },
+            {
+                "q": "What is the purpose of cricket pads?",
+                "o": ["Protect the legs from injury", "Enhance grip on the bat", "Improve visibility in low light", "Provide extra bounce to the ball"],
+                "a": "Protect the legs from injury"
+            },
+            {
+                "q": "What material are cricket pads typically made of?",
+                "o": ["Foam and fabric", "Plastic", "Metal", "Carbon fiber"],
+                "a": "Foam and fabric"
+            },
+            {
+                "q": "What is the standard height of a cricket stump?",
+                "o": ["28 inches", "24 inches", "32 inches", "36 inches"],
+                "a": "28 inches"
+            },
+            {
+                "q": "What is the purpose of the cricket bails?",
+                "o": ["To indicate when a wicket is broken", "To measure the length of the pitch", "To protect the batsman's head", "To provide stability to the stumps"],
+                "a": "To indicate when a wicket is broken"
+            },
+            {
+                "q": "What material are cricket bails typically made of?",
+                "o": ["Wood", "Metal", "Plastic", "Rubber"],
+                "a": "Wood"
+            },
+            {
+                "q": "What is the purpose of a cricket helmet?",
+                "o": ["To protect the batsman's head", "To enhance visibility", "To improve batting technique", "To increase the weight of the bat"],
+                "a": "To protect the batsman's head"
+            },
+            {
+                "q": "What material are cricket helmets typically made of?",
+                "o": ["Fiberglass", "Carbon fiber", "Steel", "Plastic"],
+                "a": "Carbon fiber"
+            },
+            {
+                "q": "What is the purpose of cricket shoes?",
+                "o": ["To provide traction on the field", "To improve bowling speed", "To reduce the weight of the player", "To protect the toes"],
+                "a": "To provide traction on the field"
+            },
+            {
+                "q": "What material are cricket shoes typically made of?",
+                "o": ["Leather", "Rubber", "Synthetic", "Canvas"],
+                "a": "Rubber"
+            }
+        ]
+        
+    }
+}
