@@ -13,6 +13,9 @@ from selenium.webdriver.common.action_chains import ActionChains
 from helper import update_data, get_matches, get_commentary, get_match_details, get_score, get_head_to_head, get_to_watch, get_quiz, check_quiz
 from handcricket import create_hcmatch, get_hcmatch, get_hctable
 
+EMAIL = 'appsrizu@gmail.com'
+PASSWORD = ''
+
 live_broadcast_threads, live_match, quiz_dict = [], [], {}
 
 c_commands = {
@@ -71,8 +74,8 @@ def setup():
     wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="loginbutton"]')))
     print('20% - Page Loaded')
 
-    driver.find_element(By.XPATH, '//*[@id="email"]').send_keys('appsrizu@gmail.com')
-    driver.find_element(By.XPATH, '//*[@id="pass"]').send_keys('RizuRizu&123123')
+    driver.find_element(By.XPATH, '//*[@id="email"]').send_keys(EMAIL)
+    driver.find_element(By.XPATH, '//*[@id="pass"]').send_keys(PASSWORD)
     driver.find_element(By.XPATH, '//*[@id="loginbutton"]').click()
 
     wait.until(EC.text_to_be_present_in_element((By.CSS_SELECTOR, 'div > div > div > div:nth-child(3) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div:nth-child(2) > div > div > div > div > div > div.x9f619.x1ja2u2z.x1k90msu.x6o7n8i.x1qfuztq.x10l6tqk.x17qophe.x13vifvy.x1hc1fzr.x71s49j.xh8yej3 > div.html-div.xe8uvvx.xdj266r.x11i5rnm.xat24cr.x1mh8g0r.xexx8yu.x4uap5.x18d9i69.xkhd6sd > div > div > div > div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x6s0dn4.x1swvt13.x1pi30zi.xyamay9.x1l90r2v > span'),'Enter your PIN to sync your chat history'))
