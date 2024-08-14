@@ -5,24 +5,15 @@ from requests import get, RequestException
 from bs4 import BeautifulSoup
 
 status_selector = r'#main-container > div.ds-relative > div.lg\:ds-container.lg\:ds-mx-auto.lg\:ds-px-5.lg\:ds-pt-4 > div > div.ds-flex.ds-space-x-5 > div.ds-grow > div.ds-w-full.ds-bg-fill-content-prime.ds-overflow-hidden.ds-rounded-xl.ds-border.ds-border-line > div > div:nth-child(1) > div.ds-flex > div > div > div > p > span'
-matches_selector = r'#main-container > div.ds-relative > div.lg\:ds-container.lg\:ds-mx-auto.lg\:ds-px-5 > div.ds-flex.ds-space-x-5 > div.ds-grow.ds-px-0 > div.ds-max-w-\[918px\] > div:nth-child(3) > div > div:nth-child(1) > div > div.ds-p-0 > div > div'
+matches_selector = r'.ds-max-w-\[918px\] > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div'
+hcmatch_data, links = [], []
 
-quizzes, hcmatch_data = {}, []
-
-def update_data():
-    global data, quizzes
-    try:
-        with open(r'./data.json', encoding="utf8") as f:
-            data = json.loads(f.read())
-        with open(r'./quiz.json') as f:
-            quizzes = json.loads(f.read())
-        return ['Data updated.', data, quizzes]
-    except (FileNotFoundError, ValueError) as e:
-        return [f'Error updating data: {e}']
+with open(r'./data.json', encoding="utf8") as f:
+    data = json.loads(f.read())
+with open(r'./quiz.json') as f:
+    quizzes = json.loads(f.read())
 
 def get_matches():
-    global links
-    links = {}
     try:
         response = get("https://www.espncricinfo.com/live-cricket-score")
         response.raise_for_status()
@@ -33,37 +24,25 @@ def get_matches():
 
         for i, match in enumerate(matches, 1):
             text = (f"{i} - {match.get_text()}"
-                    .replace("RESULT", "Result, ")
-                    .replace("LIVE", "Live, ")
-                    .replace("Series Home", "")
-                    .replace("Preview", "")
-                    .replace("Report", "")
-                    .replace("Photos", "")
-                    .replace("Videos", "")
-                    .replace("News", "")
-                    .replace("Summary", "")
-                    .replace('AM', 'AM, ')
-                    .replace('PM', 'PM, '))
+                .replace("RESULT", "Result, ").replace("LIVE", "Live, ").replace("Series Home", "")
+                .replace("Preview", "").replace("Report", "").replace("Photos", "").replace("Videos", "")
+                .replace("News", "").replace("Summary", "").replace('AM', 'AM, ').replace('PM', 'PM, '))
             text = re.sub(r'([a-z])([A-Z])', r'\1 \2', text)
             mnames.append(text)
 
             link = (soup.select(f"{matches_selector}:nth-child({i}) > div > div.ds-px-4.ds-py-3 > a")[0]['href'])
-            links[i] = ('https://www.espncricinfo.com' + link).replace("/match-preview", "/live-cricket-score").replace("/full-scorecard", "/live-cricket-score")
+            links.append(f'https://www.espncricinfo.com{link}'.replace("/match-preview", "/live-cricket-score").replace("/full-scorecard", "/live-cricket-score"))
+            
         return [links, '\n\n'.join(mnames)]
     except RequestException as e:
         return [f'Error fetching matches: {e}']
 
 def get_match_status(status):
-    if "yet to begin" in status:
-        return 'Not Started'
-    elif "won" in status:
-        return "Ended"
-    elif "chose" in status:
-        return "First Innings"
-    elif "need" in status:
-        return "Second Innings"
-    else:
-        return "Unknown"
+    if "yet to begin" in status: return 'Not Started'
+    elif "won" in status: return "Ended"
+    elif "chose" in status: return "First Innings"
+    elif "need" in status: return "Second Innings"
+    else: return "Unknown"
 
 def text(soup, selector):
     element = soup.select_one(selector)
@@ -148,7 +127,6 @@ def get_match_details(link, type):
     except RequestException as e:
         return f'Error fetching match details: {e}'
 
-
 def replace_team_names(text):
     return re.sub('|'.join(re.escape(team) for team in data['team_abbreviations']), lambda m: data['team_abbreviations'][m.group(0)], text, flags=re.IGNORECASE)
 
@@ -210,13 +188,12 @@ def check_quiz(sender, choice):
     correct_option = f"{options[correct_option_index]}) {quiz_dict['o'][correct_option_index]}"
 
     if choice == quiz_dict['a']:
-        return f"{sender} gave the correct answer!\nYou chose: {chosen_option}\nCorrect Answer!"
+        return f"{sender} gave the correct answer!\nChosen answer: {chosen_option}\nGreat Job!!"
     else:
-        return f"{sender} gave the Incorrect Answer\nYou chose: {chosen_option}\nCorrect Answer: {correct_option}"
+        return f"{sender} gave the incorrect Answer\nChosen answer: {chosen_option}\nCorrect Answer: {correct_option}"
     
 def get_commentary(link, previous_ball):
     commentary_selector = ('#' + link.lower().replace('/', r'\/').replace('.', r'\.') + ' > div').replace(':', r'\:')
-
     bowler_to_batter = r' > div > div > div:nth-child(1) > div > div > div.xl\:ds-w-\[400px\] > div > div > div.ds-leading-none.ds-mb-0\.5 > span'
     ball_comment1 = r' > div > div > div:nth-child(1) > div.lg\:hover\:ds-bg-ui-fill-translucent.ds-hover-parent.ds-relative > div > div.xl\:ds-w-\[400px\] > div > div > div.first-letter\:ds-capitalize > p'
     ball_comment2 = r' > div > div > div:nth-child(1) > div.lg\:hover\:ds-bg-ui-fill-translucent.ds-hover-parent.ds-relative > div > div.xl\:ds-w-\[400px\] > div > div > div > span'
@@ -225,7 +202,6 @@ def get_commentary(link, previous_ball):
     balls = []
     soup = BeautifulSoup(get(link).content, "html5lib")
     last_ball = float(soup.select(commentary_selector + ':nth-child(10)' + ball_no)[0].get_text())
-
     
     if previous_ball < last_ball:
         for i in range(10, 30):
@@ -233,11 +209,8 @@ def get_commentary(link, previous_ball):
             btb = btb[0].get_text().replace('<!-- -->, ', ',') + '\n' if btb else ''
 
             bc = soup.select(commentary_selector + ':nth-child(' + str(i) + ')' + ball_comment1)
-            if bc:
-                bc = bc[0].get_text()
-            else:
-                bc = soup.select(commentary_selector + ':nth-child(' + str(i) + ')' + ball_comment2)
-                bc = bc[0].get_text()
+            if not bc: bc = soup.select(commentary_selector + ':nth-child(' + str(i) + ')' + ball_comment2)
+            bc = bc[0].get_text()
 
             bn = soup.select(commentary_selector + ':nth-child(' + str(i) + ')' + ball_no)
             bn = bn[0].get_text() if bn else ''
@@ -251,5 +224,26 @@ def get_commentary(link, previous_ball):
     else:
         print('CHECKED LIVE')
 
-if __name__ == '__main__':
-    print(update_data()[1])
+def give_feedback(text):
+    print(text)
+    with open('feedbacks.txt', 'a') as f:
+        f.write(text[1:].strip() + '\n' if text.startswith('f') else text[8:].strip() + '\n')
+    return 'Thank you for your feedback! It has been recorded.'
+
+def calculate(text):
+    text = text.replace('calculate', '').replace('c', '').strip()
+
+    if '+' in text: text, type = text.split('+'), 'add'
+    elif '-' in text: text, type = text.split('-'), 'subtract'
+    elif '*' in text: text, type = text.split('*'), 'multiply'
+    elif '/' in text: text, type = text.split('/'), 'divide'
+
+    num1 = int(text[0].strip())
+    num2 = int(text[1].strip())
+
+    if type == 'add': sum = num1 + num2
+    elif type == 'subtract': sum = num1 - num2
+    elif type == 'multiply': sum = num1 * num2
+    elif type == 'divide': sum = num1 / num2
+
+    return sum

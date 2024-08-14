@@ -1,11 +1,13 @@
 {
-  "help_message": "Commands: \n.cs test - Test command to check if the bot is active. \n.cs help - Display this help message. \n.cs matches - Retrieve current matches. \n.cs m[number] - Retrieve details for a specific match. Replace [number] with the desired match number. \n.cs q <category> - Start a quiz. \n.cs bye - Exit the conversation. \n\nYou can use 'quiz' instead of 'q', '.cs' instead of 'c'.",
+  "help_message": "Commands: \n.c test - Test command to check if the bot is active. \n.c help - Display this help message. \n.c matches - Retrieve current matches. \n.c m[number] - Retrieve details for a specific match. Replace [number] with the desired match number. \n.c q <category> - Start a quiz. \nYou can use 'quiz' instead of 'q', '.cs' instead of '.c'.",
 
   "quiz_message": "Cricket Quiz\nGeneral: Learn about cricket's past, basic rules, and common terms. \nPlayers: Discover cricket's heroes, both past and present. \nTeams: Explore the different teams, both national and local, and their rivalries. \nRecords: Find out about the biggest achievements in batting, bowling, and team performance. \nLeagues: Check out the exciting cricket leagues like IPL, BBL, and PSL. \nOthers: Dig into some fun facts, the role of umpires, and the equipment used in cricket.",
 
   "quiz_rules": "Quiz Rules:\n1. Type '.q' to start the quiz.\n2. You'll be presented with a question and four options (a, b, c, d).\n3. Choose the correct option by typing the corresponding letter (e.g., 'a').\n4. If your answer is correct, you'll receive a 'Correct Answer!' message.\n5. If your answer is incorrect, you'll be shown the correct answer along with your choice.\n6. Each quiz question can only be answered once.\n7. Enjoy the quiz and test your knowledge!",
    
   "match_message": "Match Commands Help Guide\n\n1. best batter: Use this command to get information about the best batter in the match.\n2. best bowler: Use this command to get information about the best bowler in the match.\n3. head to head / headtohead: Use this command to get the head-to-head statistics for the teams in the match.\n4. live: Use this command to start the live broadcast of the match.\n5. umpires: Use this command to get information about the umpires officiating the match.\n6. tv umpire: Use this command to get information about the TV umpire for the match.\n7. match referee: Use this command to get information about the match referee.\n8. series: Use this command to get information about the series to which the match belongs.\n9. toss: Use this command to get information about the toss, including which team won the toss and their decision.",
+
+  "hc_message": "",
 
   "team_abbreviations": {
     "Chennai Super Kings": "CSK", "Delhi Capitals": "DC", "Gujarat Titans": "GT", "Kolkata Knight Riders": "KKR", "Lucknow Super Giants": "LSG", "Mumbai Indians": "MI", "Punjab Kings": "PBKS", "Rajasthan Royals": "RR", "Royal Challengers Bengaluru": "RCB", "Sunrisers Hyderabad": "SRH",
@@ -16,8 +18,11 @@
     "Durban's Super Giants": "DSG", "Joburg Super Kings": "JSK", "MI Cape Town": "MICT", "Paarl Royals": "PR", "Pretoria Capitals": "PC", "Sunrisers Eastern Cape": "SEC"
   },
   "chat_commands": {
-    "hello cricket scorer": "Hello",
-    "give toss update": "ok eta add korbo"
+    "hello": "Hello",
+    "give toss update": "toss will be added in future version",
+    "test": "Tested, I am active now!",
+    "bye": "Goodbye",
+    "version": "v2.0"
     }
 }
   
