@@ -12,13 +12,14 @@ def hc_parse_commentary(batters, bowlers, commentary, info):
 
     if info["type"] == 'oneplayer':
         player_innings = commentary.split('w')  # Split the commentary by 'w' to get individual player scores
+        played_batters = range(len(player_innings)) if player_innings[-1] != '' else range(len(player_innings) - 1)
 
         # Ensure the number of wickets matches the number of innings
         if (len(batters) < len(player_innings)) and 'w' in player_innings[-1]:
             return "Number of wickets is more than number of innings"
 
         # Assign each player's score
-        for i in range(len(player_innings)):
+        for i in played_batters:
             runs = sum(int(char) for char in player_innings[i] if char.isdigit())
             if i < (len(batters) - 1) or (i == (len(batters) - 1) and commentary[-1] == 'w'):
                 # Include 'w' in length for all but the last player and for the last player if he is out
@@ -111,7 +112,7 @@ def hc_parse_commentary(batters, bowlers, commentary, info):
 
     return innings_data
 
-def create_hcmatch(text):
+def c_hcmatch(text):
     text = text.replace('-', '').strip()    
     errors = []
     text = text.split()
@@ -192,11 +193,12 @@ def create_hcmatch(text):
             table[t2n]['overs_bowled'] += 3
 
         # -------------------------------------------------- Stats -------------------------------------------------- #
-        empty_stats = {'0':0,'1':0,'2':0,'3':0,'4':0,'5':0,'6':0,'runs':0,'balls':0,'outs':0,'b_runs':0,'b_balls':0,'wickets':0}
+        empty_stats = {'matches':0,'0':0,'1':0,'2':0,'3':0,'4':0,'5':0,'6':0,'runs':0,'balls':0,'outs':0,'b_runs':0,'b_balls':0,'wickets':0}
 
         if info["type"] == 'oneplayer':
             if t1n not in stats: stats[t1n] = empty_stats
             for digit in '0123456': stats[t1n][digit] += t1i.count(digit)
+            stats[t1n]['matches'] += 1
             stats[t1n]['runs'] += t1r
             stats[t1n]['balls'] += len(t1i)
             stats[t1n]['outs'] += t1i.count('w')
@@ -206,6 +208,7 @@ def create_hcmatch(text):
 
             if t2n not in stats: stats[t2n] = empty_stats
             for digit in '0123456': stats[t2n][digit] += t2i.count(digit)
+            stats[t2n]['matches'] += 1
             stats[t2n]['runs'] += t2r
             stats[t2n]['balls'] += len(t2i)
             stats[t2n]['outs'] += t2i.count('w')
@@ -244,7 +247,7 @@ def create_hcmatch(text):
 
     return f'\n{t1n} scored {t1r} runs. {t2n} scored {t2r} runs.\n{winning_team} won by {winning_margin} {result_type}\n'
 
-def get_hcmatch(tournament, matchname):       
+def g_hcmatch(tournament, matchname):       
     if not os.path.exists(os.path.join('hand-cricket', f'{tournament}.json')):
         return f'Tournament {tournament.lower()} has not been created. You may have a spelling mistake. Please type the name of the tournament again.'
 
@@ -283,7 +286,7 @@ def get_hcmatch(tournament, matchname):
 
     return match_info
     
-def get_hctable(tournament):
+def g_hctable(tournament):
     if not os.path.exists(os.path.join('hand-cricket', f'{tournament}.json')):
         return f'Tournament {tournament.lower()} has not been created. You may have a spelling mistake. Please type the name of the tournament again.'
     
@@ -301,7 +304,37 @@ def get_hctable(tournament):
 
     return table_string.strip()
 
-def create_hcschedule(teams, lottery=False):
+STAT_TYPES = {
+    'wickets': ('Wickets', lambda data: data['wickets']),
+    'runs': ('Runs', lambda data: data['runs']),
+    'batting_average': ('Batting Average', lambda data: round(data['runs'] / data['outs'], 2) if data['outs'] else data['runs']),
+    'economy': ('Economy', lambda data: round(data['b_runs'] / (data['b_balls'] / 6), 2) if data['b_balls'] else 0),
+    'bowling_average': ('Bowling Average', lambda data: round(data['b_runs'] / data['wickets'], 2) if data['wickets'] else 0),
+    'strike_rate': ('Strike Rate', lambda data: round(data['runs'] / data['balls'] * 100, 2) if data['balls'] else 0),
+    '4s': ('4s', lambda data: data['4']),
+    '6s': ('6s', lambda data: data['6']),
+    'bowling_strike_rate': ('Bowling Strike Rate', lambda data: round(data['b_balls'] / data['wickets'], 2) if data['wickets'] else 0),
+    'run_rate': ('Run Rate', lambda data: round(data['runs'] / (data['balls'] / 6), 2) if data['balls'] else 0)
+}
+
+def g_hcstats(tournament, stat_type):
+    path = os.path.join('hand-cricket', f'{tournament}.json')
+    if not os.path.exists(path):
+        return f"Tournament '{tournament}' not found. Please check the name."
+
+    with open(path, 'r') as f:
+        stats = json.load(f)['stats']
+
+    if stat_type not in STAT_TYPES:
+        return f"Invalid stat type '{stat_type}'. Choose from {', '.join(STAT_TYPES.keys())}."
+
+    stat_label, stat_func = STAT_TYPES[stat_type]
+    header = f"Player | M  | {stat_label}" if stat_type in ['wickets', 'runs'] else f"Player | {stat_label}"
+    return header + "\n" + "\n".join(
+        f"{player:<6} | {data['matches']:<2} | {stat_func(data):<4}" if stat_type in ['wickets', 'runs'] else 
+        f"{player:<6} | {stat_func(data):<4}" for player, data in sorted(stats.items(), key=lambda x: stat_func(x[1]), reverse=True))
+
+def c_hcschedule(teams, lottery=False):
     teams = teams.split(',')
     schedule = []
     for teama in teams:
@@ -314,14 +347,16 @@ def create_hcschedule(teams, lottery=False):
     return schedule
 
 if __name__ == '__main__':
-    for tournament in ['test']:
-        with open(os.path.join('hand-cricket', f'{tournament}.json'), 'r+') as f:
-            tournament_data = json.load(f)
-            tournament_data['stats'] = {}
-            tournament_data['table'] = {}
-            tournament_data['matches'] = {}
-            f.seek(0); json.dump(tournament_data, f, indent=4); f.truncate()
+    print(g_hcstats('hcpl2', 'batting_average'))
+
+    # for tournament in ['test']:
+    #     with open(os.path.join('hand-cricket', f'{tournament}.json'), 'r+') as f:
+    #         tournament_data = json.load(f)
+    #         tournament_data['stats'] = {}
+    #         tournament_data['table'] = {}
+    #         tournament_data['matches'] = {}
+    #         f.seek(0); json.dump(tournament_data, f, indent=4); f.truncate()
             
-    print(create_hcmatch('test 1 rt. 666666000000 su 124ww'))
-    print(get_hcmatch('test', '1'))
-    print(get_hctable('test'))
+    # print(create_hcmatch('test 1 rt. 666666000000 su 124ww'))
+    # print(hcmatch('test', '1'))
+    # print(hctable('test'))
