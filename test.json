@@ -1,0 +1,32 @@
+{
+    "info": {
+        "balls": 18,
+        "wickets": 2,
+        "type": "twoplayer",
+        "teams": {
+            "RT": [
+                "Rizu Titans",
+                "Rizu 1",
+                "Rizu 2"
+            ],
+            "SU": [
+                "Sayor United",
+                "Sayor 1",
+                "Sayor 2"
+            ],
+            "JG": [
+                "Jarif Gladiators",
+                "Jarif 1",
+                "Jarif 2"
+            ],
+            "ND": [
+                "Nazif Dynamites",
+                "Nazif 1",
+                "Nazif 2"
+            ]
+        }
+    },
+    "stats": {},
+    "table": {},
+    "matches": {}
+}

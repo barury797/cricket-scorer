@@ -1,0 +1,5631 @@
+{
+    "info": {
+        "balls": 18,
+        "wickets": 2,
+        "type": "oneplayer",
+        "teams": {
+            "RT": [
+                "Rizu Titans",
+                "Rizu 1",
+                "Rizu 2"
+            ],
+            "SU": [
+                "Sayor United",
+                "Sayor 1",
+                "Sayor 2"
+            ],
+            "JG": [
+                "Jarif Gladiators",
+                "Jarif 1",
+                "Jarif 2"
+            ],
+            "ND": [
+                "Nazif Dynamites",
+                "Nazif 1",
+                "Nazif 2"
+            ],
+            "MV": [
+                "Meheraj Victorians",
+                "Meheraj 1",
+                "Meheraj 2"
+            ],
+            "KK": [
+                "Kaysaan Kings",
+                "Kaysaan 1",
+                "Kaysaan 2"
+            ],
+            "TT": [
+                "Tahmid Tigers",
+                "Tahmid 1",
+                "Tahmid 2"
+            ],
+            "TS": [
+                "Tamim Strikers",
+                "Tamim 1",
+                "Tamim 2"
+            ],
+            "EG": [
+                "Eshaan Galacticos",
+                "Eshaan 1",
+                "Eshaan 2"
+            ]
+        }
+    },
+    "stats": {
+        "RT": {
+            "matches": 24,
+            "0": 26,
+            "1": 33,
+            "2": 42,
+            "3": 24,
+            "4": 27,
+            "5": 38,
+            "6": 34,
+            "runs": 691,
+            "balls": 267,
+            "outs": 42,
+            "b_runs": 632,
+            "b_balls": 229,
+            "wickets": 36
+        },
+        "TS": {
+            "matches": 24,
+            "0": 48,
+            "1": 20,
+            "2": 21,
+            "3": 13,
+            "4": 16,
+            "5": 24,
+            "6": 17,
+            "runs": 387,
+            "balls": 192,
+            "outs": 33,
+            "b_runs": 522,
+            "b_balls": 200,
+            "wickets": 42
+        },
+        "KK": {
+            "matches": 24,
+            "0": 10,
+            "1": 14,
+            "2": 19,
+            "3": 36,
+            "4": 25,
+            "5": 34,
+            "6": 28,
+            "runs": 598,
+            "balls": 205,
+            "outs": 39,
+            "b_runs": 645,
+            "b_balls": 222,
+            "wickets": 33
+        },
+        "JG": {
+            "matches": 24,
+            "0": 20,
+            "1": 40,
+            "2": 27,
+            "3": 42,
+            "4": 31,
+            "5": 33,
+            "6": 45,
+            "runs": 779,
+            "balls": 278,
+            "outs": 40,
+            "b_runs": 694,
+            "b_balls": 231,
+            "wickets": 31
+        },
+        "ND": {
+            "matches": 24,
+            "0": 7,
+            "1": 15,
+            "2": 31,
+            "3": 32,
+            "4": 37,
+            "5": 29,
+            "6": 24,
+            "runs": 610,
+            "balls": 209,
+            "outs": 34,
+            "b_runs": 714,
+            "b_balls": 256,
+            "wickets": 39
+        },
+        "MV": {
+            "matches": 24,
+            "0": 9,
+            "1": 33,
+            "2": 23,
+            "3": 16,
+            "4": 36,
+            "5": 38,
+            "6": 18,
+            "runs": 569,
+            "balls": 211,
+            "outs": 38,
+            "b_runs": 603,
+            "b_balls": 205,
+            "wickets": 30
+        },
+        "EG": {
+            "matches": 24,
+            "0": 15,
+            "1": 6,
+            "2": 20,
+            "3": 15,
+            "4": 41,
+            "5": 43,
+            "6": 33,
+            "runs": 668,
+            "balls": 210,
+            "outs": 37,
+            "b_runs": 503,
+            "b_balls": 202,
+            "wickets": 45
+        },
+        "SU": {
+            "matches": 24,
+            "0": 29,
+            "1": 3,
+            "2": 14,
+            "3": 24,
+            "4": 15,
+            "5": 33,
+            "6": 34,
+            "runs": 532,
+            "balls": 179,
+            "outs": 27,
+            "b_runs": 463,
+            "b_balls": 193,
+            "wickets": 37
+        },
+        "TT": {
+            "matches": 24,
+            "0": 49,
+            "1": 3,
+            "2": 4,
+            "3": 22,
+            "4": 21,
+            "5": 39,
+            "6": 32,
+            "runs": 548,
+            "balls": 210,
+            "outs": 39,
+            "b_runs": 606,
+            "b_balls": 223,
+            "wickets": 36
+        }
+    },
+    "table": {
+        "RT": {
+            "matches": 24,
+            "wins": 10,
+            "losses": 14,
+            "points": 20,
+            "runs_scored": 671,
+            "overs_faced": 69.16666666666666,
+            "runs_conceded": 615,
+            "overs_bowled": 57.166666666666664
+        },
+        "TS": {
+            "matches": 24,
+            "wins": 13,
+            "losses": 11,
+            "points": 26,
+            "runs_scored": 370,
+            "overs_faced": 52.166666666666664,
+            "runs_conceded": 502,
+            "overs_bowled": 64.16666666666667
+        },
+        "KK": {
+            "matches": 24,
+            "wins": 12,
+            "losses": 12,
+            "points": 24,
+            "runs_scored": 598,
+            "overs_faced": 63.33333333333333,
+            "runs_conceded": 645,
+            "overs_bowled": 60.833333333333336
+        },
+        "JG": {
+            "matches": 24,
+            "wins": 13,
+            "losses": 11,
+            "points": 26,
+            "runs_scored": 762,
+            "overs_faced": 65.66666666666667,
+            "runs_conceded": 626,
+            "overs_bowled": 55.333333333333336
+        },
+        "ND": {
+            "matches": 24,
+            "wins": 11,
+            "losses": 13,
+            "points": 22,
+            "runs_scored": 542,
+            "overs_faced": 59.16666666666667,
+            "runs_conceded": 697,
+            "overs_bowled": 65.66666666666667
+        },
+        "MV": {
+            "matches": 24,
+            "wins": 11,
+            "losses": 13,
+            "points": 22,
+            "runs_scored": 569,
+            "overs_faced": 62.166666666666664,
+            "runs_conceded": 603,
+            "overs_bowled": 50.0
+        },
+        "EG": {
+            "matches": 24,
+            "wins": 15,
+            "losses": 9,
+            "points": 30,
+            "runs_scored": 668,
+            "overs_faced": 61.49999999999999,
+            "runs_conceded": 503,
+            "overs_bowled": 70.16666666666667
+        },
+        "SU": {
+            "matches": 24,
+            "wins": 16,
+            "losses": 8,
+            "points": 32,
+            "runs_scored": 532,
+            "overs_faced": 48.166666666666664,
+            "runs_conceded": 463,
+            "overs_bowled": 59.33333333333333
+        },
+        "TT": {
+            "matches": 24,
+            "wins": 8,
+            "losses": 16,
+            "points": 16,
+            "runs_scored": 548,
+            "overs_faced": 64.0,
+            "runs_conceded": 606,
+            "overs_bowled": 62.66666666666666
+        }
+    },
+    "matches": {
+        "13": {
+            "RT": {
+                "innings": "50w3612w",
+                "runs": 17,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 5,
+                        "balls": 3,
+                        "innings": "50",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 12,
+                        "balls": 5,
+                        "innings": "3612",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 17,
+                    "balls": 8
+                }
+            },
+            "TS": {
+                "innings": "3625w4",
+                "runs": 20,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 16,
+                        "balls": 5,
+                        "innings": "3625",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 4,
+                        "balls": 1,
+                        "innings": "4",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 20,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "14": {
+            "RT": {
+                "innings": "61604205410256w2w",
+                "runs": 44,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 42,
+                        "balls": 15,
+                        "innings": "61604205410256",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 44,
+                    "balls": 17
+                }
+            },
+            "TS": {
+                "innings": "6652635w14w",
+                "runs": 38,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 33,
+                        "balls": 8,
+                        "innings": "6652635",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 5,
+                        "balls": 3,
+                        "innings": "14",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 38,
+                    "balls": 11
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "15": {
+            "RT": {
+                "innings": "134602521026456w53",
+                "runs": 55,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 47,
+                        "balls": 16,
+                        "innings": "134602521026456",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 8,
+                        "balls": 2,
+                        "innings": "53",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 55,
+                    "balls": 18
+                }
+            },
+            "TS": {
+                "innings": "w2356w",
+                "runs": 16,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 16,
+                        "balls": 5,
+                        "innings": "2356",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "16": {
+            "RT": {
+                "innings": "w014w",
+                "runs": 5,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 5,
+                        "balls": 4,
+                        "innings": "014",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 5,
+                    "balls": 5
+                }
+            },
+            "KK": {
+                "innings": "5w3",
+                "runs": 8,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 3,
+                        "balls": 1,
+                        "innings": "3",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 8,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "17": {
+            "RT": {
+                "innings": "3401604w10262w",
+                "runs": 29,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 18,
+                        "balls": 8,
+                        "innings": "3401604",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 11,
+                        "balls": 6,
+                        "innings": "10262",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 29,
+                    "balls": 14
+                }
+            },
+            "KK": {
+                "innings": "6w653w",
+                "runs": 20,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 14,
+                        "balls": 4,
+                        "innings": "653",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 20,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "18": {
+            "KK": {
+                "innings": "2601w3611623536w",
+                "runs": 45,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 9,
+                        "balls": 5,
+                        "innings": "2601",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 36,
+                        "balls": 11,
+                        "innings": "3611623536",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 45,
+                    "balls": 16
+                }
+            },
+            "RT": {
+                "innings": "2ww",
+                "runs": 2,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 2,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "34": {
+            "JG": {
+                "innings": "603566234354316245",
+                "runs": 68,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 68,
+                        "balls": 19,
+                        "innings": "603566234354316245",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 68,
+                    "balls": 18
+                }
+            },
+            "ND": {
+                "innings": "2w465w",
+                "runs": 17,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 15,
+                        "balls": 4,
+                        "innings": "465",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 17,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "35": {
+            "JG": {
+                "innings": "03w261025526w",
+                "runs": 32,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "03",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 29,
+                        "balls": 10,
+                        "innings": "261025526",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 32,
+                    "balls": 13
+                }
+            },
+            "ND": {
+                "innings": "4w2w",
+                "runs": 6,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 4,
+                        "balls": 2,
+                        "innings": "4",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 6,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "36": {
+            "JG": {
+                "innings": "6333w3223640636645",
+                "runs": 65,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 15,
+                        "balls": 5,
+                        "innings": "6333",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 50,
+                        "balls": 13,
+                        "innings": "3223640636645",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 65,
+                    "balls": 18
+                }
+            },
+            "ND": {
+                "innings": "4665524w546w",
+                "runs": 47,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 32,
+                        "balls": 8,
+                        "innings": "4665524",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 15,
+                        "balls": 4,
+                        "innings": "546",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 47,
+                    "balls": 12
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "37": {
+            "JG": {
+                "innings": "w1136632316551w",
+                "runs": 43,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 43,
+                        "balls": 14,
+                        "innings": "1136632316551",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 43,
+                    "balls": 15
+                }
+            },
+            "MV": {
+                "innings": "03553454654",
+                "runs": 44,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 44,
+                        "balls": 12,
+                        "innings": "03553454654",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 44,
+                    "balls": 11
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "38": {
+            "MV": {
+                "innings": "463ww",
+                "runs": 13,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 13,
+                        "balls": 4,
+                        "innings": "463",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 13,
+                    "balls": 5
+                }
+            },
+            "JG": {
+                "innings": "43226",
+                "runs": 17,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 17,
+                        "balls": 6,
+                        "innings": "43226",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 17,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "39": {
+            "MV": {
+                "innings": "234154461642655w4w",
+                "runs": 62,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 58,
+                        "balls": 16,
+                        "innings": "234154461642655",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 4,
+                        "balls": 2,
+                        "innings": "4",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 62,
+                    "balls": 18
+                }
+            },
+            "JG": {
+                "innings": "33w621555164634w",
+                "runs": 54,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "33",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 48,
+                        "balls": 13,
+                        "innings": "621555164634",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 54,
+                    "balls": 16
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "46": {
+            "MV": {
+                "innings": "2425544ww",
+                "runs": 26,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 26,
+                        "balls": 8,
+                        "innings": "2425544",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 26,
+                    "balls": 9
+                }
+            },
+            "ND": {
+                "innings": "153243315",
+                "runs": 27,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 27,
+                        "balls": 10,
+                        "innings": "153243315",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 27,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "47": {
+            "MV": {
+                "innings": "1w50442w",
+                "runs": 16,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 15,
+                        "balls": 6,
+                        "innings": "50442",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 8
+                }
+            },
+            "ND": {
+                "innings": "1w342335",
+                "runs": 21,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 20,
+                        "balls": 6,
+                        "innings": "342335",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 21,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "48": {
+            "MV": {
+                "innings": "433566w341w",
+                "runs": 35,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 27,
+                        "balls": 7,
+                        "innings": "433566",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 8,
+                        "balls": 4,
+                        "innings": "341",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 35,
+                    "balls": 11
+                }
+            },
+            "ND": {
+                "innings": "62414324w3604",
+                "runs": 39,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 26,
+                        "balls": 9,
+                        "innings": "62414324",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 13,
+                        "balls": 4,
+                        "innings": "3604",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 39,
+                    "balls": 13
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "4": {
+            "JG": {
+                "innings": "12ww",
+                "runs": 3,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "12",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 3,
+                    "balls": 4
+                }
+            },
+            "RT": {
+                "innings": "22",
+                "runs": 4,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 4,
+                        "balls": 3,
+                        "innings": "22",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 4,
+                    "balls": 2
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "7": {
+            "RT": {
+                "innings": "51w6210442132w",
+                "runs": 31,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "51",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 25,
+                        "balls": 11,
+                        "innings": "6210442132",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 31,
+                    "balls": 14
+                }
+            },
+            "ND": {
+                "innings": "4w3w",
+                "runs": 7,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 4,
+                        "balls": 2,
+                        "innings": "4",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 3,
+                        "balls": 2,
+                        "innings": "3",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 7,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "8": {
+            "RT": {
+                "innings": "61520445w66130w",
+                "runs": 43,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 27,
+                        "balls": 9,
+                        "innings": "61520445",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 16,
+                        "balls": 6,
+                        "innings": "66130",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 43,
+                    "balls": 15
+                }
+            },
+            "ND": {
+                "innings": "w00w",
+                "runs": 0,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 0,
+                        "balls": 3,
+                        "innings": "00",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 0,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "9": {
+            "RT": {
+                "innings": "5w5303406w",
+                "runs": 26,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 21,
+                        "balls": 8,
+                        "innings": "5303406",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 26,
+                    "balls": 10
+                }
+            },
+            "ND": {
+                "innings": "4245566",
+                "runs": 32,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 32,
+                        "balls": 8,
+                        "innings": "4245566",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 32,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "10": {
+            "RT": {
+                "innings": "w6511125w",
+                "runs": 21,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 21,
+                        "balls": 8,
+                        "innings": "6511125",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 21,
+                    "balls": 9
+                }
+            },
+            "MV": {
+                "innings": "1w355255",
+                "runs": 26,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 25,
+                        "balls": 6,
+                        "innings": "355255",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 26,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "11": {
+            "RT": {
+                "innings": "66220645351546355w",
+                "runs": 68,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 68,
+                        "balls": 18,
+                        "innings": "66220645351546355",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 68,
+                    "balls": 18
+                }
+            },
+            "MV": {
+                "innings": "w46w",
+                "runs": 10,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "46",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 10,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "12": {
+            "MV": {
+                "innings": "51w442w",
+                "runs": 16,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "51",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 10,
+                        "balls": 4,
+                        "innings": "442",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 7
+                }
+            },
+            "RT": {
+                "innings": "0w250w",
+                "runs": 7,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 7,
+                        "balls": 4,
+                        "innings": "250",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 7,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "49": {
+            "ND": {
+                "innings": "w2w",
+                "runs": 2,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 2,
+                    "balls": 3
+                }
+            },
+            "TS": {
+                "innings": "5",
+                "runs": 5,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 5,
+                    "balls": 1
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "50": {
+            "TS": {
+                "innings": "15244651342w532416",
+                "runs": 58,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 37,
+                        "balls": 12,
+                        "innings": "15244651342",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 21,
+                        "balls": 6,
+                        "innings": "532416",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 58,
+                    "balls": 18
+                }
+            },
+            "ND": {
+                "innings": "4542ww",
+                "runs": 15,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 15,
+                        "balls": 5,
+                        "innings": "4542",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 15,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "51": {
+            "ND": {
+                "innings": "415w243534w",
+                "runs": 31,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 10,
+                        "balls": 4,
+                        "innings": "415",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 21,
+                        "balls": 7,
+                        "innings": "243534",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 31,
+                    "balls": 11
+                }
+            },
+            "TS": {
+                "innings": "2w5340w",
+                "runs": 14,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 12,
+                        "balls": 5,
+                        "innings": "5340",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 14,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "52": {
+            "ND": {
+                "innings": "5364216532w1352465",
+                "runs": 63,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 37,
+                        "balls": 11,
+                        "innings": "5364216532",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 26,
+                        "balls": 7,
+                        "innings": "1352465",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 63,
+                    "balls": 18
+                }
+            },
+            "KK": {
+                "innings": "34536w43536435335",
+                "runs": 65,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 21,
+                        "balls": 6,
+                        "innings": "34536",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 44,
+                        "balls": 11,
+                        "innings": "43536435335",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 65,
+                    "balls": 17
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "53": {
+            "ND": {
+                "innings": "453w3w",
+                "runs": 15,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 12,
+                        "balls": 4,
+                        "innings": "453",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 3,
+                        "balls": 2,
+                        "innings": "3",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 15,
+                    "balls": 6
+                }
+            },
+            "KK": {
+                "innings": "0245033",
+                "runs": 17,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 17,
+                        "balls": 8,
+                        "innings": "0245033",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 17,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "54": {
+            "KK": {
+                "innings": "w2w",
+                "runs": 2,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 2,
+                    "balls": 3
+                }
+            },
+            "ND": {
+                "innings": "3",
+                "runs": 3,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 3,
+                        "balls": 2,
+                        "innings": "3",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 3,
+                    "balls": 1
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "55": {
+            "MV": {
+                "innings": "w0w",
+                "runs": 0,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 0,
+                    "balls": 3
+                }
+            },
+            "TS": {
+                "innings": "w5",
+                "runs": 5,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 5,
+                        "balls": 1,
+                        "innings": "5",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 5,
+                    "balls": 2
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "40": {
+            "JG": {
+                "innings": "531w003023551w",
+                "runs": 28,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 9,
+                        "balls": 4,
+                        "innings": "531",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 19,
+                        "balls": 10,
+                        "innings": "003023551",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 28,
+                    "balls": 14
+                }
+            },
+            "TS": {
+                "innings": "3125623016",
+                "runs": 29,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 29,
+                        "balls": 11,
+                        "innings": "3125623016",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 29,
+                    "balls": 10
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "41": {
+            "TS": {
+                "innings": "25ww",
+                "runs": 7,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 7,
+                        "balls": 3,
+                        "innings": "25",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 7,
+                    "balls": 4
+                }
+            },
+            "JG": {
+                "innings": "111w00w",
+                "runs": 3,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 3,
+                        "balls": 4,
+                        "innings": "111",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 0,
+                        "balls": 3,
+                        "innings": "00",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 3,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "42": {
+            "JG": {
+                "innings": "w054451w",
+                "runs": 19,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 19,
+                        "balls": 7,
+                        "innings": "054451",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 19,
+                    "balls": 8
+                }
+            },
+            "TS": {
+                "innings": "5w000515004",
+                "runs": 20,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 15,
+                        "balls": 9,
+                        "innings": "000515004",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 20,
+                    "balls": 11
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "43": {
+            "JG": {
+                "innings": "6ww",
+                "runs": 6,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 6,
+                    "balls": 3
+                }
+            },
+            "KK": {
+                "innings": "023w015",
+                "runs": 11,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 5,
+                        "balls": 4,
+                        "innings": "023",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "015",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 11,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "44": {
+            "JG": {
+                "innings": "0w0661646564w",
+                "runs": 44,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 44,
+                        "balls": 11,
+                        "innings": "0661646564",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 44,
+                    "balls": 13
+                }
+            },
+            "KK": {
+                "innings": "46235w0535610w",
+                "runs": 40,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 20,
+                        "balls": 6,
+                        "innings": "46235",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 20,
+                        "balls": 8,
+                        "innings": "0535610",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 40,
+                    "balls": 14
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "56": {
+            "MV": {
+                "innings": "2w5516414w",
+                "runs": 28,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 26,
+                        "balls": 8,
+                        "innings": "5516414",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 28,
+                    "balls": 10
+                }
+            },
+            "TS": {
+                "innings": "41w55w",
+                "runs": 15,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 5,
+                        "balls": 3,
+                        "innings": "41",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "55",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 15,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "57": {
+            "MV": {
+                "innings": "21ww",
+                "runs": 3,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "21",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 3,
+                    "balls": 4
+                }
+            },
+            "TS": {
+                "innings": "2w3",
+                "runs": 5,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 3,
+                        "balls": 1,
+                        "innings": "3",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 5,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "61": {
+            "KK": {
+                "innings": "ww",
+                "runs": 0,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 0,
+                    "balls": 2
+                }
+            },
+            "TS": {
+                "innings": "002",
+                "runs": 2,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 2,
+                        "balls": 4,
+                        "innings": "002",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 2,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "62": {
+            "KK": {
+                "innings": "23346w21w",
+                "runs": 21,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 18,
+                        "balls": 6,
+                        "innings": "23346",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "21",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 21,
+                    "balls": 9
+                }
+            },
+            "TS": {
+                "innings": "250254w002015",
+                "runs": 26,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 18,
+                        "balls": 7,
+                        "innings": "250254",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 8,
+                        "balls": 6,
+                        "innings": "002015",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 26,
+                    "balls": 13
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "63": {
+            "KK": {
+                "innings": "w16w",
+                "runs": 7,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 7,
+                        "balls": 3,
+                        "innings": "16",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 7,
+                    "balls": 4
+                }
+            },
+            "TS": {
+                "innings": "000w060w",
+                "runs": 6,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 4,
+                        "innings": "000",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 6,
+                        "balls": 4,
+                        "innings": "060",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 6,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "85": {
+            "RT": {
+                "innings": "453w612332w",
+                "runs": 29,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 12,
+                        "balls": 4,
+                        "innings": "453",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 17,
+                        "balls": 7,
+                        "innings": "612332",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 29,
+                    "balls": 11
+                }
+            },
+            "EG": {
+                "innings": "5630w2000542011",
+                "runs": 29,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 14,
+                        "balls": 5,
+                        "innings": "5630",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 15,
+                        "balls": 10,
+                        "innings": "2000542011",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 29,
+                    "balls": 15
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "86": {
+            "RT": {
+                "innings": "66w23213030012",
+                "runs": 29,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 12,
+                        "balls": 3,
+                        "innings": "66",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 17,
+                        "balls": 11,
+                        "innings": "23213030012",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 29,
+                    "balls": 14
+                }
+            },
+            "EG": {
+                "innings": "65w464000000001",
+                "runs": 26,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 11,
+                        "balls": 3,
+                        "innings": "65",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 15,
+                        "balls": 12,
+                        "innings": "464000000001",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 26,
+                    "balls": 15
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "87": {
+            "EG": {
+                "innings": "54w35544565456w",
+                "runs": 61,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 9,
+                        "balls": 3,
+                        "innings": "54",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 52,
+                        "balls": 12,
+                        "innings": "35544565456",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 61,
+                    "balls": 15
+                }
+            },
+            "RT": {
+                "innings": "46ww",
+                "runs": 10,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "46",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 10,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "94": {
+            "EG": {
+                "innings": "35463265w064w",
+                "runs": 44,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 34,
+                        "balls": 9,
+                        "innings": "35463265",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 10,
+                        "balls": 4,
+                        "innings": "064",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 44,
+                    "balls": 13
+                }
+            },
+            "ND": {
+                "innings": "35264w3w",
+                "runs": 23,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 20,
+                        "balls": 6,
+                        "innings": "35264",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 3,
+                        "balls": 2,
+                        "innings": "3",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 23,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "95": {
+            "EG": {
+                "innings": "5146w432w",
+                "runs": 25,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 16,
+                        "balls": 5,
+                        "innings": "5146",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 9,
+                        "balls": 4,
+                        "innings": "432",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 25,
+                    "balls": 9
+                }
+            },
+            "ND": {
+                "innings": "324w1341w",
+                "runs": 18,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 9,
+                        "balls": 4,
+                        "innings": "324",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 9,
+                        "balls": 5,
+                        "innings": "1341",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 18,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "96": {
+            "ND": {
+                "innings": "5343562w62w",
+                "runs": 36,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 28,
+                        "balls": 8,
+                        "innings": "5343562",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 8,
+                        "balls": 3,
+                        "innings": "62",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 36,
+                    "balls": 11
+                }
+            },
+            "EG": {
+                "innings": "24ww",
+                "runs": 6,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "24",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 6,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "97": {
+            "KK": {
+                "innings": "w364w",
+                "runs": 13,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 13,
+                        "balls": 4,
+                        "innings": "364",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 13,
+                    "balls": 5
+                }
+            },
+            "EG": {
+                "innings": "w435w",
+                "runs": 12,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 12,
+                        "balls": 4,
+                        "innings": "435",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 12,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "98": {
+            "EG": {
+                "innings": "465642544564264656",
+                "runs": 84,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 84,
+                        "balls": 19,
+                        "innings": "465642544564264656",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 84,
+                    "balls": 18
+                }
+            },
+            "KK": {
+                "innings": "565ww",
+                "runs": 16,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 16,
+                        "balls": 4,
+                        "innings": "565",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "99": {
+            "KK": {
+                "innings": "453645w4542",
+                "runs": 42,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 27,
+                        "balls": 7,
+                        "innings": "453645",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 15,
+                        "balls": 4,
+                        "innings": "4542",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 42,
+                    "balls": 11
+                }
+            },
+            "EG": {
+                "innings": "253w404w",
+                "runs": 18,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 10,
+                        "balls": 4,
+                        "innings": "253",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 8,
+                        "balls": 4,
+                        "innings": "404",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 18,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "100": {
+            "EG": {
+                "innings": "14w6w",
+                "runs": 11,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 5,
+                        "balls": 3,
+                        "innings": "14",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 11,
+                    "balls": 5
+                }
+            },
+            "MV": {
+                "innings": "3w45",
+                "runs": 12,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 3,
+                        "balls": 2,
+                        "innings": "3",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 9,
+                        "balls": 2,
+                        "innings": "45",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 12,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "101": {
+            "MV": {
+                "innings": "1422w46w",
+                "runs": 19,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 9,
+                        "balls": 5,
+                        "innings": "1422",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "46",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 19,
+                    "balls": 8
+                }
+            },
+            "EG": {
+                "innings": "634324",
+                "runs": 22,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 22,
+                        "balls": 7,
+                        "innings": "634324",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 22,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "102": {
+            "MV": {
+                "innings": "5234w100w",
+                "runs": 15,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 14,
+                        "balls": 5,
+                        "innings": "5234",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 1,
+                        "balls": 4,
+                        "innings": "100",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 15,
+                    "balls": 9
+                }
+            },
+            "EG": {
+                "innings": "425w6",
+                "runs": 17,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 11,
+                        "balls": 4,
+                        "innings": "425",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 6,
+                        "balls": 1,
+                        "innings": "6",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 17,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "103": {
+            "EG": {
+                "innings": "64536545w463463w",
+                "runs": 64,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 38,
+                        "balls": 9,
+                        "innings": "64536545",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 26,
+                        "balls": 7,
+                        "innings": "463463",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 64,
+                    "balls": 16
+                }
+            },
+            "TS": {
+                "innings": "w1w",
+                "runs": 1,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 1,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "104": {
+            "TS": {
+                "innings": "4w24w",
+                "runs": 10,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 4,
+                        "balls": 2,
+                        "innings": "4",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "24",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 10,
+                    "balls": 5
+                }
+            },
+            "EG": {
+                "innings": "3w21w",
+                "runs": 6,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 3,
+                        "balls": 2,
+                        "innings": "3",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "21",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 6,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "105": {
+            "TS": {
+                "innings": "6w41214w",
+                "runs": 18,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 12,
+                        "balls": 6,
+                        "innings": "41214",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 18,
+                    "balls": 8
+                }
+            },
+            "EG": {
+                "innings": "w24653",
+                "runs": 20,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 20,
+                        "balls": 5,
+                        "innings": "24653",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 20,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "5": {
+            "RT": {
+                "innings": "51W50512622412w",
+                "runs": 36,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 36,
+                        "balls": 15,
+                        "innings": "51W50512622412",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 36,
+                    "balls": 15
+                }
+            },
+            "JG": {
+                "innings": "043616234w21024",
+                "runs": 38,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 29,
+                        "balls": 10,
+                        "innings": "043616234",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 9,
+                        "balls": 5,
+                        "innings": "21024",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 38,
+                    "balls": 15
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "6": {
+            "JG": {
+                "innings": "6513w41126355565w",
+                "runs": 58,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 15,
+                        "balls": 5,
+                        "innings": "6513",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 43,
+                        "balls": 12,
+                        "innings": "41126355565",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 58,
+                    "balls": 17
+                }
+            },
+            "RT": {
+                "innings": "564546w2551w",
+                "runs": 43,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 30,
+                        "balls": 7,
+                        "innings": "564546",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 13,
+                        "balls": 5,
+                        "innings": "2551",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 43,
+                    "balls": 12
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "31": {
+            "KK": {
+                "innings": "w45461056325652365",
+                "runs": 68,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 68,
+                        "balls": 17,
+                        "innings": "45461056325652365",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 68,
+                    "balls": 18
+                }
+            },
+            "SU": {
+                "innings": "5565356664456w5",
+                "runs": 71,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 66,
+                        "balls": 14,
+                        "innings": "5565356664456",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 5,
+                        "balls": 1,
+                        "innings": "5",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 71,
+                    "balls": 15
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "32": {
+            "SU": {
+                "innings": "13ww",
+                "runs": 4,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 4,
+                        "balls": 3,
+                        "innings": "13",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 4,
+                    "balls": 4
+                }
+            },
+            "KK": {
+                "innings": "1w15",
+                "runs": 7,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "15",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 7,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "33": {
+            "KK": {
+                "innings": "643ww",
+                "runs": 13,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 13,
+                        "balls": 4,
+                        "innings": "643",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 13,
+                    "balls": 5
+                }
+            },
+            "SU": {
+                "innings": "05343",
+                "runs": 15,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 15,
+                        "balls": 6,
+                        "innings": "05343",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 15,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "19": {
+            "JG": {
+                "innings": "364ww",
+                "runs": 13,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 13,
+                        "balls": 4,
+                        "innings": "364",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 13,
+                    "balls": 5
+                }
+            },
+            "SU": {
+                "innings": "0566",
+                "runs": 17,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 17,
+                        "balls": 5,
+                        "innings": "0566",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 17,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "20": {
+            "JG": {
+                "innings": "w12214050342653w",
+                "runs": 38,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 38,
+                        "balls": 15,
+                        "innings": "12214050342653",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 38,
+                    "balls": 16
+                }
+            },
+            "SU": {
+                "innings": "053w66w",
+                "runs": 20,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 8,
+                        "balls": 4,
+                        "innings": "053",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 12,
+                        "balls": 3,
+                        "innings": "66",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 20,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "21": {
+            "JG": {
+                "innings": "03w01113144405w",
+                "runs": 27,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "03",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 24,
+                        "balls": 12,
+                        "innings": "01113144405",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 27,
+                    "balls": 15
+                }
+            },
+            "SU": {
+                "innings": "00w6066004006",
+                "runs": 28,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 0,
+                        "balls": 3,
+                        "innings": "00",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 28,
+                        "balls": 10,
+                        "innings": "6066004006",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 28,
+                    "balls": 13
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "22": {
+            "ND": {
+                "innings": "w54w",
+                "runs": 9,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 9,
+                        "balls": 3,
+                        "innings": "54",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 9,
+                    "balls": 4
+                }
+            },
+            "SU": {
+                "innings": "0w0020505",
+                "runs": 12,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 12,
+                        "balls": 7,
+                        "innings": "0020505",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 12,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "23": {
+            "SU": {
+                "innings": "013w65553w",
+                "runs": 28,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 4,
+                        "balls": 4,
+                        "innings": "013",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 24,
+                        "balls": 6,
+                        "innings": "65553",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 28,
+                    "balls": 10
+                }
+            },
+            "ND": {
+                "innings": "144262256",
+                "runs": 32,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 32,
+                        "balls": 10,
+                        "innings": "144262256",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 32,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "24": {
+            "SU": {
+                "innings": "266ww",
+                "runs": 14,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 14,
+                        "balls": 4,
+                        "innings": "266",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 14,
+                    "balls": 5
+                }
+            },
+            "ND": {
+                "innings": "2235w0202",
+                "runs": 16,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 12,
+                        "balls": 5,
+                        "innings": "2235",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 4,
+                        "balls": 4,
+                        "innings": "0202",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 16,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "76": {
+            "KK": {
+                "innings": "533w46",
+                "runs": 21,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 11,
+                        "balls": 4,
+                        "innings": "533",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 10,
+                        "balls": 2,
+                        "innings": "46",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 21,
+                    "balls": 6
+                }
+            },
+            "TT": {
+                "innings": "6w60w",
+                "runs": 12,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "60",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 12,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "77": {
+            "TT": {
+                "innings": "6w40464055w",
+                "runs": 34,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 28,
+                        "balls": 9,
+                        "innings": "40464055",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 34,
+                    "balls": 11
+                }
+            },
+            "KK": {
+                "innings": "0w5w",
+                "runs": 5,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 5,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "78": {
+            "KK": {
+                "innings": "w2253326w",
+                "runs": 23,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 23,
+                        "balls": 8,
+                        "innings": "2253326",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 23,
+                    "balls": 9
+                }
+            },
+            "TT": {
+                "innings": "55060ww",
+                "runs": 16,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 16,
+                        "balls": 6,
+                        "innings": "55060",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "45": {
+            "JG": {
+                "innings": "263444553136643w16",
+                "runs": 66,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 59,
+                        "balls": 16,
+                        "innings": "263444553136643",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 7,
+                        "balls": 2,
+                        "innings": "16",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 66,
+                    "balls": 18
+                }
+            },
+            "KK": {
+                "innings": "5563546345w14w",
+                "runs": 51,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 46,
+                        "balls": 11,
+                        "innings": "5563546345",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 5,
+                        "balls": 3,
+                        "innings": "14",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 51,
+                    "balls": 14
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "65": {
+            "RT": {
+                "innings": "6w5140026235w",
+                "runs": 34,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 28,
+                        "balls": 11,
+                        "innings": "5140026235",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 34,
+                    "balls": 13
+                }
+            },
+            "TT": {
+                "innings": "05406420405005",
+                "runs": 35,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 35,
+                        "balls": 15,
+                        "innings": "05406420405005",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 35,
+                    "balls": 14
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "64": {
+            "RT": {
+                "innings": "353w26112w",
+                "runs": 23,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 11,
+                        "balls": 4,
+                        "innings": "353",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 12,
+                        "balls": 6,
+                        "innings": "26112",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 23,
+                    "balls": 10
+                }
+            },
+            "TT": {
+                "innings": "50w0w",
+                "runs": 5,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 5,
+                        "balls": 3,
+                        "innings": "50",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 5,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "66": {
+            "TT": {
+                "innings": "6056406456w6w",
+                "runs": 48,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 42,
+                        "balls": 11,
+                        "innings": "6056406456",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 48,
+                    "balls": 13
+                }
+            },
+            "RT": {
+                "innings": "33404156315440w51",
+                "runs": 49,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 43,
+                        "balls": 15,
+                        "innings": "33404156315440",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "51",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 49,
+                    "balls": 17
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "67": {
+            "SU": {
+                "innings": "5ww",
+                "runs": 5,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 5,
+                    "balls": 3
+                }
+            },
+            "TT": {
+                "innings": "w6",
+                "runs": 6,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 6,
+                        "balls": 1,
+                        "innings": "6",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 6,
+                    "balls": 2
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "68": {
+            "TT": {
+                "innings": "60ww",
+                "runs": 6,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "60",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 6,
+                    "balls": 4
+                }
+            },
+            "SU": {
+                "innings": "63",
+                "runs": 9,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 9,
+                        "balls": 3,
+                        "innings": "63",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 9,
+                    "balls": 2
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "69": {
+            "SU": {
+                "innings": "5556ww",
+                "runs": 21,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 21,
+                        "balls": 5,
+                        "innings": "5556",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 21,
+                    "balls": 6
+                }
+            },
+            "TT": {
+                "innings": "6w65005",
+                "runs": 22,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 16,
+                        "balls": 5,
+                        "innings": "65005",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 22,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "70": {
+            "TT": {
+                "innings": "55363q31w",
+                "runs": 26,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 26,
+                        "balls": 9,
+                        "innings": "55363q31",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 26,
+                    "balls": 9
+                }
+            },
+            "JG": {
+                "innings": "011144636w2",
+                "runs": 28,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 26,
+                        "balls": 10,
+                        "innings": "011144636",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 2,
+                        "balls": 1,
+                        "innings": "2",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 28,
+                    "balls": 11
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "73": {
+            "ND": {
+                "innings": "w1363536w",
+                "runs": 27,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 27,
+                        "balls": 8,
+                        "innings": "1363536",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 27,
+                    "balls": 9
+                }
+            },
+            "TT": {
+                "innings": "5w4w",
+                "runs": 9,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 4,
+                        "balls": 2,
+                        "innings": "4",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 9,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "74": {
+            "TT": {
+                "innings": "6w006400w",
+                "runs": 16,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 10,
+                        "balls": 7,
+                        "innings": "006400",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 9
+                }
+            },
+            "ND": {
+                "innings": "1w041422w",
+                "runs": 14,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Nazif 2": {
+                        "runs": 13,
+                        "balls": 7,
+                        "innings": "041422",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 14,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "75": {
+            "TT": {
+                "innings": "300w34050030640354",
+                "runs": 40,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 3,
+                        "balls": 4,
+                        "innings": "300",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 37,
+                        "balls": 14,
+                        "innings": "34050030640354",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 40,
+                    "balls": 18
+                }
+            },
+            "ND": {
+                "innings": "24665214354",
+                "runs": 42,
+                "batting": {
+                    "Nazif 1": {
+                        "runs": 42,
+                        "balls": 12,
+                        "innings": "24665214354",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 42,
+                    "balls": 11
+                }
+            },
+            "info": {
+                "toss": "ND"
+            }
+        },
+        "58": {
+            "MV": {
+                "innings": "55w110114244555262",
+                "runs": 53,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "55",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 43,
+                        "balls": 15,
+                        "innings": "110114244555262",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 53,
+                    "balls": 18
+                }
+            },
+            "KK": {
+                "innings": "36w32346154224w",
+                "runs": 45,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 9,
+                        "balls": 3,
+                        "innings": "36",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 36,
+                        "balls": 12,
+                        "innings": "32346154224",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 45,
+                    "balls": 15
+                }
+            },
+            "info": {
+                "toss": "KK"
+            }
+        },
+        "59": {
+            "KK": {
+                "innings": "1w4652w",
+                "runs": 18,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 17,
+                        "balls": 5,
+                        "innings": "4652",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 18,
+                    "balls": 7
+                }
+            },
+            "MV": {
+                "innings": "w16152w",
+                "runs": 15,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 15,
+                        "balls": 6,
+                        "innings": "16152",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 15,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "60": {
+            "KK": {
+                "innings": "03446353w4512w",
+                "runs": 40,
+                "batting": {
+                    "Kaysaan 1": {
+                        "runs": 28,
+                        "balls": 9,
+                        "innings": "03446353",
+                        "out": true
+                    },
+                    "Kaysaan 2": {
+                        "runs": 12,
+                        "balls": 5,
+                        "innings": "4512",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 40,
+                    "balls": 14
+                }
+            },
+            "MV": {
+                "innings": "3424512w241555",
+                "runs": 43,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 21,
+                        "balls": 8,
+                        "innings": "3424512",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 22,
+                        "balls": 6,
+                        "innings": "241555",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 43,
+                    "balls": 14
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "25": {
+            "MV": {
+                "innings": "5w1104421w",
+                "runs": 18,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 13,
+                        "balls": 8,
+                        "innings": "1104421",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 18,
+                    "balls": 10
+                }
+            },
+            "SU": {
+                "innings": "055505",
+                "runs": 20,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 20,
+                        "balls": 7,
+                        "innings": "055505",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 20,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "26": {
+            "MV": {
+                "innings": "01w52211w",
+                "runs": 12,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 1,
+                        "balls": 3,
+                        "innings": "01",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 11,
+                        "balls": 6,
+                        "innings": "52211",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 12,
+                    "balls": 9
+                }
+            },
+            "SU": {
+                "innings": "0644",
+                "runs": 14,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 14,
+                        "balls": 5,
+                        "innings": "0644",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 14,
+                    "balls": 4
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "27": {
+            "MV": {
+                "innings": "6w31w",
+                "runs": 10,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 6,
+                        "balls": 2,
+                        "innings": "6",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 4,
+                        "balls": 3,
+                        "innings": "31",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 10,
+                    "balls": 5
+                }
+            },
+            "SU": {
+                "innings": "02246",
+                "runs": 14,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 14,
+                        "balls": 6,
+                        "innings": "02246",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 14,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "1": {
+            "RT": {
+                "innings": "25612ww",
+                "runs": 16,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 16,
+                        "balls": 6,
+                        "innings": "25612",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 7
+                }
+            },
+            "SU": {
+                "innings": "0532242",
+                "runs": 18,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 18,
+                        "balls": 8,
+                        "innings": "0532242",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 18,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "RT"
+            }
+        },
+        "2": {
+            "RT": {
+                "innings": "w54221w",
+                "runs": 14,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 14,
+                        "balls": 6,
+                        "innings": "54221",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 14,
+                    "balls": 7
+                }
+            },
+            "SU": {
+                "innings": "063w044",
+                "runs": 17,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 9,
+                        "balls": 4,
+                        "innings": "063",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 8,
+                        "balls": 3,
+                        "innings": "044",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 17,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "3": {
+            "RT": {
+                "innings": "5w653462212w",
+                "runs": 36,
+                "batting": {
+                    "Rizu 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Rizu 2": {
+                        "runs": 31,
+                        "balls": 10,
+                        "innings": "653462212",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 36,
+                    "balls": 12
+                }
+            },
+            "SU": {
+                "innings": "23333666w025",
+                "runs": 39,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 32,
+                        "balls": 9,
+                        "innings": "23333666",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 7,
+                        "balls": 3,
+                        "innings": "025",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 39,
+                    "balls": 12
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "28": {
+            "SU": {
+                "innings": "3664543w656666w",
+                "runs": 66,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 31,
+                        "balls": 8,
+                        "innings": "3664543",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 35,
+                        "balls": 7,
+                        "innings": "656666",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 66,
+                    "balls": 15
+                }
+            },
+            "TS": {
+                "innings": "w1043w",
+                "runs": 8,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 8,
+                        "balls": 5,
+                        "innings": "1043",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 8,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "29": {
+            "TS": {
+                "innings": "w00001w",
+                "runs": 1,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 1,
+                        "balls": 6,
+                        "innings": "00001",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 1,
+                    "balls": 7
+                }
+            },
+            "SU": {
+                "innings": "06",
+                "runs": 6,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "06",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 6,
+                    "balls": 2
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "30": {
+            "SU": {
+                "innings": "5w335w",
+                "runs": 16,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 11,
+                        "balls": 4,
+                        "innings": "335",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 6
+                }
+            },
+            "TS": {
+                "innings": "000000132616",
+                "runs": 19,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 19,
+                        "balls": 13,
+                        "innings": "000000132616",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 19,
+                    "balls": 12
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "201": {
+            "SU": {
+                "innings": "335564324556ww",
+                "runs": 51,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 51,
+                        "balls": 13,
+                        "innings": "335564324556",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 51,
+                    "balls": 14
+                }
+            },
+            "EG": {
+                "innings": "2556w446w",
+                "runs": 32,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 18,
+                        "balls": 5,
+                        "innings": "2556",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 14,
+                        "balls": 4,
+                        "innings": "446",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 32,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "202": {
+            "SU": {
+                "innings": "43w2325232w",
+                "runs": 26,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 7,
+                        "balls": 3,
+                        "innings": "43",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 19,
+                        "balls": 8,
+                        "innings": "2325232",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 26,
+                    "balls": 11
+                }
+            },
+            "EG": {
+                "innings": "2546456",
+                "runs": 32,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 32,
+                        "balls": 8,
+                        "innings": "2546456",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 32,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "203": {
+            "EG": {
+                "innings": "35ww",
+                "runs": 8,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 8,
+                        "balls": 3,
+                        "innings": "35",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 8,
+                    "balls": 4
+                }
+            },
+            "SU": {
+                "innings": "w00010w",
+                "runs": 1,
+                "batting": {
+                    "Sayor 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Sayor 2": {
+                        "runs": 1,
+                        "balls": 6,
+                        "innings": "00010",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 1,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "SU"
+            }
+        },
+        "204": {
+            "EG": {
+                "innings": "5265w6452w",
+                "runs": 35,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 18,
+                        "balls": 5,
+                        "innings": "5265",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 17,
+                        "balls": 5,
+                        "innings": "6452",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 35,
+                    "balls": 10
+                }
+            },
+            "TT": {
+                "innings": "33w55w",
+                "runs": 16,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "33",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "55",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "205": {
+            "TT": {
+                "innings": "6400365w30w",
+                "runs": 27,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 24,
+                        "balls": 8,
+                        "innings": "6400365",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 3,
+                        "balls": 3,
+                        "innings": "30",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 27,
+                    "balls": 11
+                }
+            },
+            "EG": {
+                "innings": "2ww",
+                "runs": 2,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 2,
+                        "balls": 2,
+                        "innings": "2",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 2,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "EG"
+            }
+        },
+        "206": {
+            "TT": {
+                "innings": "63056w3050w",
+                "runs": 28,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 20,
+                        "balls": 6,
+                        "innings": "63056",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 8,
+                        "balls": 5,
+                        "innings": "3050",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 28,
+                    "balls": 11
+                }
+            },
+            "EG": {
+                "innings": "455465w",
+                "runs": 29,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 29,
+                        "balls": 7,
+                        "innings": "455465",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 29,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "207": {
+            "TS": {
+                "innings": "501w63515w",
+                "runs": 26,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 6,
+                        "balls": 4,
+                        "innings": "501",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 20,
+                        "balls": 6,
+                        "innings": "63515",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 26,
+                    "balls": 10
+                }
+            },
+            "TT": {
+                "innings": "03560556w",
+                "runs": 30,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 30,
+                        "balls": 9,
+                        "innings": "03560556",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 30,
+                    "balls": 9
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "208": {
+            "TT": {
+                "innings": "w0w",
+                "runs": 0,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 0,
+                    "balls": 3
+                }
+            },
+            "TS": {
+                "innings": "0000000002",
+                "runs": 2,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 2,
+                        "balls": 11,
+                        "innings": "0000000002",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 2,
+                    "balls": 10
+                }
+            },
+            "info": {
+                "toss": "TS"
+            }
+        },
+        "209": {
+            "TS": {
+                "innings": "0w00602040060w",
+                "runs": 18,
+                "batting": {
+                    "Tamim 1": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    },
+                    "Tamim 2": {
+                        "runs": 18,
+                        "balls": 12,
+                        "innings": "00602040060",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 18,
+                    "balls": 14
+                }
+            },
+            "TT": {
+                "innings": "06050406",
+                "runs": 21,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 21,
+                        "balls": 9,
+                        "innings": "06050406",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 21,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "106": {
+            "EG": {
+                "innings": "5265w6452w",
+                "runs": 35,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 18,
+                        "balls": 5,
+                        "innings": "5265",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 17,
+                        "balls": 5,
+                        "innings": "6452",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 35,
+                    "balls": 10
+                }
+            },
+            "TT": {
+                "innings": "33w55w",
+                "runs": 16,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 6,
+                        "balls": 3,
+                        "innings": "33",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "55",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 16,
+                    "balls": 6
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "79": {
+            "MV": {
+                "innings": "w1101336155551616",
+                "runs": 50,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 50,
+                        "balls": 16,
+                        "innings": "1101336155551616",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 50,
+                    "balls": 17
+                }
+            },
+            "TT": {
+                "innings": "5w55463355w",
+                "runs": 41,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 36,
+                        "balls": 9,
+                        "innings": "55463355",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 41,
+                    "balls": 11
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "80": {
+            "TT": {
+                "innings": "46456w0w",
+                "runs": 25,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 25,
+                        "balls": 6,
+                        "innings": "46456",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 25,
+                    "balls": 8
+                }
+            },
+            "MV": {
+                "innings": "3444616",
+                "runs": 28,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 28,
+                        "balls": 8,
+                        "innings": "3444616",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 28,
+                    "balls": 7
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "81": {
+            "TT": {
+                "innings": "0w503024w",
+                "runs": 14,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 0,
+                        "balls": 2,
+                        "innings": "0",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 14,
+                        "balls": 7,
+                        "innings": "503024",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 14,
+                    "balls": 9
+                }
+            },
+            "MV": {
+                "innings": "5w325",
+                "runs": 15,
+                "batting": {
+                    "Meheraj 1": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    },
+                    "Meheraj 2": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "325",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 15,
+                    "balls": 5
+                }
+            },
+            "info": {
+                "toss": "MV"
+            }
+        },
+        "71": {
+            "JG": {
+                "innings": "63w5151155666w",
+                "runs": 50,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 9,
+                        "balls": 3,
+                        "innings": "63",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 41,
+                        "balls": 11,
+                        "innings": "5151155666",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 50,
+                    "balls": 14
+                }
+            },
+            "TT": {
+                "innings": "63463520553w",
+                "runs": 42,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 42,
+                        "balls": 12,
+                        "innings": "63463520553",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 42,
+                    "balls": 12
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "72": {
+            "JG": {
+                "innings": "w3435w",
+                "runs": 15,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 15,
+                        "balls": 5,
+                        "innings": "3435",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 15,
+                    "balls": 6
+                }
+            },
+            "TT": {
+                "innings": "w2050141",
+                "runs": 13,
+                "batting": {
+                    "Tahmid 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Tahmid 2": {
+                        "runs": 13,
+                        "balls": 7,
+                        "innings": "2050141",
+                        "out": false
+                    }
+                },
+                "bowling": {
+                    "wickets": 1,
+                    "runs": 13,
+                    "balls": 8
+                }
+            },
+            "info": {
+                "toss": "TT"
+            }
+        },
+        "91": {
+            "JG": {
+                "innings": "1w312w",
+                "runs": 7,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 1,
+                        "balls": 2,
+                        "innings": "1",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 6,
+                        "balls": 4,
+                        "innings": "312",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 7,
+                    "balls": 6
+                }
+            },
+            "EG": {
+                "innings": "64",
+                "runs": 10,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 10,
+                        "balls": 3,
+                        "innings": "64",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 10,
+                    "balls": 2
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "92": {
+            "EG": {
+                "innings": "545455w5w",
+                "runs": 33,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 28,
+                        "balls": 7,
+                        "innings": "545455",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 5,
+                        "balls": 2,
+                        "innings": "5",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 33,
+                    "balls": 9
+                }
+            },
+            "JG": {
+                "innings": "w2363216241w",
+                "runs": 30,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    },
+                    "Jarif 2": {
+                        "runs": 30,
+                        "balls": 11,
+                        "innings": "2363216241",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 30,
+                    "balls": 12
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        },
+        "93": {
+            "EG": {
+                "innings": "25ww",
+                "runs": 7,
+                "batting": {
+                    "Eshaan 1": {
+                        "runs": 7,
+                        "balls": 3,
+                        "innings": "25",
+                        "out": true
+                    },
+                    "Eshaan 2": {
+                        "runs": 0,
+                        "balls": 1,
+                        "innings": "",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 2,
+                    "runs": 7,
+                    "balls": 4
+                }
+            },
+            "JG": {
+                "innings": "613",
+                "runs": 10,
+                "batting": {
+                    "Jarif 1": {
+                        "runs": 10,
+                        "balls": 4,
+                        "innings": "613",
+                        "out": true
+                    }
+                },
+                "bowling": {
+                    "wickets": 0,
+                    "runs": 10,
+                    "balls": 3
+                }
+            },
+            "info": {
+                "toss": "JG"
+            }
+        }
+    }
+}
